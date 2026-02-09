@@ -1,3 +1,4 @@
+region,confirmed_dead,confirmed_injured,confirmed_missing,for_validation_dead,for_validation_injured,for_validation_missing,total_reported_dead,total_reported_injured,total_reported_missing,typhoon,year
 car,0,0,0,0,6,0,0,6,0,Luis,2018
 region_1,0,0,0,0,0,0,0,0,0,Luis,2018
 region_2,0,0,0,0,0,0,0,0,0,Luis,2018
