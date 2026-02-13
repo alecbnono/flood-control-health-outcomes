@@ -4,19 +4,14 @@
 
 ## Dataset
 
-This repository utilizes a multi-sourced approach to bridge the historical data gap and capture real-time trends:
+The research utilizes three primary data sources to investigate the link between infrastructure and health:
 
-    Tropical Cyclone Impact Data (2010–2020): A validated, province-level impact dataset curated for disaster risk reduction (DRR) applications. It provides the baseline for mortality, affected population, and housing damage.
-
-        Source: Figshare - Tropical Cyclone Impact Data
-
-    NDRRMC Situational Reports (2020–2025): Used for contemporary casualty counts, specifically to retrieve both death and injury statistics for the most recent typhoon seasons.
-
-        Source: National Disaster Risk Reduction and Management Council (NDRRMC)
-
-    Flood Control Infrastructure Data (2022–2024): Publicly available data on regional flood control projects, used as the primary independent variable.
-
-        Source: Sumbong sa Pangulo
+1.  **Tropical Cyclone Impact Data (2010–2020):** A validated, province-level dataset used for the historical baseline.
+    - **Source:** [Figshare - Tropical Cyclone Impact Data](https://figshare.com/articles/dataset/Tropical_Cyclone_Impact_Data/26799835?file=48706252)
+2.  **NDRRMC Situational Reports (2020–2025):** Official reports from the National Disaster Risk Reduction and Management Council used for contemporary death and injury counts.
+    - **Source:** [NDRRMC Official Portal](https://ndrrmc.gov.ph/)
+3.  **Flood Control Infrastructure Projects (2022–2024):** Regional project data used as the primary independent variable.
+    - **Source:** [Sumbong sa Pangulo](https://sumbongsapangulo.ph/)
 
 ## How to run
 
