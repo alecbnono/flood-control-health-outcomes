@@ -1,0 +1,27 @@
+# Core numerical computing
+numpy
+pandas
+scipy
+
+# Visualization
+matplotlib
+seaborn
+
+# Jupyter ecosystem
+jupyterlab
+ipykernel
+jupyter-client
+
+# Machine learning
+scikit-learn
+
+# Data handling / utilities
+tqdm
+pyyaml
+
+# Stats
+statsmodels
+
+# other
+pynvim
+neovim
