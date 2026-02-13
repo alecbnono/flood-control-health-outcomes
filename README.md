@@ -18,7 +18,7 @@ The research utilizes three primary data sources to investigate the link between
 Clone the repository
 
 ```
-git@github.com:alecbnono/flood-control-health-outcomes.git
+git clone git@github.com:alecbnono/flood-control-health-outcomes.git
 ```
 
 Execute the following commands to install the dependencies
