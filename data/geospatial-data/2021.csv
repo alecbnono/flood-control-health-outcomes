@@ -1,10 +1,10 @@
 Cyclone Name,Region,Province,Deaths,Affected,Houses destroyed,Houses damaged,Total Houses,Damage to Infrastructure (PhP),Damage to Agriculture + Fisheries (PhP),Year,Category
 Auring,CARAGA,,1,121770,60,180,240,0,21400000,2021,Tropical Storm
 Auring,Region 5,,0,0,0,47,0,0,0,2021,Tropical Storm
-Auring,Region 7,,0,0,0,83,0,0,0,0,0,2021,Tropical Storm
-Auring,Region 8,,0,0,0,5,0,0,0,0,0,2021,Tropical Storm
-Auring,Region 10,,0,0,0,6661,0,0,0,0,0,2021,Tropical Storm
-Auring,Region 11,,0,0,0,1796,0,0,0,0,0,2021,Tropical Storm
+Auring,Region 7,,0,0,0,83,0,0,0,2021,Tropical Storm
+Auring,Region 8,,0,0,0,5,0,0,0,2021,Tropical Storm
+Auring,Region 10,,0,0,0,6661,0,0,0,2021,Tropical Storm
+Auring,Region 11,,0,0,0,1796,0,0,0,2021,Tropical Storm
 Bising,Region 2,,0,303,0,0,0,0,0,2021,Super Typhoon
 Bising,Region 5,,0,138546,0,0,0,0,0,2021,Super Typhoon
 Bising,Region 8,,6,311559,150,3306,3456,0,261131102.73,2021,Super Typhoon
