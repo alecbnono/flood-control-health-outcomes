@@ -1,0 +1,55 @@
+﻿Cyclone Name,Region,Province,Deaths,Affected,Houses destroyed,Houses damaged,Total Houses,Damage to Infrastructure (PhP),Damage to Agriculture + Fisheries (PhP),Year,Category
+Agaton,Region 6,,22,,1907,16287,18194,0,1320860740.06,2022,Tropical Storm
+Agaton,Region 7,,0,,27,206,233,0,0,2022,Tropical Storm
+Agaton,Region 8,,122,,376,632,1008,0,942895292.02,2022,Tropical Storm
+Agaton,Region 10,,0,,2,45,47,0,8000,2022,Tropical Storm
+Agaton,Region 11,,0,,0,3,3,0,0,2022,Tropical Storm
+Agaton,Region 12,,0,,5,41,46,709500,0,2022,Tropical Storm
+Agaton,BARMM,,0,,0,0,0,0,874000,2022,Tropical Storm
+Agaton,CARAGA,,0,,2,2,4,0,0,2022,Tropical Storm
+Agaton,Region 5,,0,,0,5,5,0,0,2022,Tropical Storm
+Ester,Region 5,,0,,10,23,33,0,0,2022,Tropical Depression
+Ester,Region 6,,0,,1,1,2,0,5453240,2022,Tropical Depression
+Florita,Region 1,,1,127122,9,150,159,546700000,13030000,2022,Severe Tropical Storm
+Florita,Region 2,,0,41996,3,61,64,24400000,0,2022,Severe Tropical Storm
+Florita,CAR,,1,1803,1,9,10,0,0,2022,Severe Tropical Storm
+Florita,Region 3,,0,0,1,10,11,0,0,2022,Severe Tropical Storm
+Florita,CALABARZON,,0,0,0,0,0,0,10850000,2022,Severe Tropical Storm
+Florita,NCR,,0,7866,0,0,0,0,0,2022,Severe Tropical Storm
+Henry,Region 1,,0,,0,0,0,0,0,2022,Super Typhoon
+Henry,Region 3,,0,,0,0,0,0,0,2022,Super Typhoon
+Henry,CAR,,0,,0,12,12,61372000,0,2022,Super Typhoon
+Karding,Region 1,,0,4041,0,0,0,950000,60100000.00,2022,Super Typhoon
+Karding,Region 2,,0,3220,0,0,0,280297910.00,171000000.00,2022,Super Typhoon
+Karding,Region 3,,5,1258100,0,0,0,0,2731800000.00,2022,Super Typhoon
+Karding,CALABARZON,,4,178660,0,0,0,0,240800000.00,2022,Super Typhoon
+Karding,Region 5,,0,3983,0,0,0,100000,53300000.00,2022,Super Typhoon
+Karding,CAR,,0,1827,0,12,12,19897400,2200000.00,2022,Super Typhoon
+Karding,MIMAROPA,,0,1818,0,0,0,3000000,0,2022,Super Typhoon
+Karding,Region 6,,0,0,0,0,0,0,9700000.00,2022,Super Typhoon
+Maymay,Region 2,,1,41996,0,0,0,14252147.37,114350000,2022,Tropical Depression
+Maymay,CAR,,0,1803,0,0,0,0,0,2022,Tropical Depression
+Maymay,CALABARZON,,0,0,0,0,0,0,0,2022,Tropical Depression
+Neneng,Region 1,,0,27485,9,150,159,372800000,2185138,2022,Severe Tropical Storm 
+Neneng,Region 2,,0,157691,49,61,110,55260000,497548466.38,2022,Severe Tropical Storm 
+Neneng,CAR,,0,6154,1,9,10,22655000,3921190,2022,Severe Tropical Storm
+Obet,Region 1,,0,120,0,0,0,0,0,2022,Tropical Depression
+Obet,Region 2,,0,9974,0,0,0,0,0,2022,Tropical Depression
+Obet,CAR,,0,800,0,0,0,0,0,2022,Tropical Depression
+Paeng,Region 1,,0,38491,33,978,1011,63200000,52800110.50,2022,Severe Tropical Storm
+Paeng,Region 2,,0,331721,50,38,88,531938218.70,1217948410.99,2022,Severe Tropical Storm
+Paeng,Region 3,,2,445667,143,489,632,54700000,541956406.11,2022,Severe Tropical Storm
+Paeng,CALABARZON,,23,1052028,1697,17703,19400,1769377360.69,726119476.09,2022,Severe Tropical Storm
+Paeng,MIMAROPA,,3,217573,242,3374,3616,1017659772,337343911.17,2022,Severe Tropical Storm
+Paeng,Region 5,,0,269616,242,3295,3537,793374689.99,924124008.65,2022,Severe Tropical Storm
+Paeng,Region 6,,34,1773525,2185,24992,27177,661675,2638512154.70,2022,Severe Tropical Storm
+Paeng,Region 7,,0,1699,11,39,50,277000000,0,2022,Severe Tropical Storm
+Paeng,Region 8,,0,398480,167,6332,6499,0,0,2022,Severe Tropical Storm
+Paeng,Region 9,,0,79636,148,157,305,0,2360000,2022,Severe Tropical Storm
+Paeng,Region 10,,0,6104,95,669,764,110050000,1354500,2022,Severe Tropical Storm
+Paeng,Region 11,,0,9324,109,515,624,2500000,10000,2022,Severe Tropical Storm
+Paeng,Region 12,,3,202492,409,1431,1840,0,0,2022,Severe Tropical Storm
+Paeng,BARMM,,68,1077338,1062,1153,2215,511200000,639521156.56,2022,Severe Tropical Storm
+Paeng,CAR,,1,36715,27,606,633,736841482.19,30726340.61,2022,Severe Tropical Storm
+Paeng,NCR,,0,37151,0,0,0,0,0,2022,Severe Tropical Storm
+Rosal,CARAGA,,0,55,0,0,0,0,0,2022,Tropical Storm

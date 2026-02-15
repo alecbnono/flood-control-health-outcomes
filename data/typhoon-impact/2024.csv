@@ -1,0 +1,87 @@
+Cyclone Name,Region,Province,Deaths,Affected,Houses destroyed,Houses damaged,Total Houses,Damage to Infrastructure (PhP),Damage to Agriculture + Fisheries (PhP),Year,Category
+Aghon,Region 3,,0,8589,0,0,0,0,0,2024,Typhoon
+Aghon,CALABARZON,,5,126383,748,6890,7638,942546193.82,80402565,2024,Typhoon
+Aghon,MIMAROPA,,0,3656,0,0,0,0,0,2024,Typhoon
+Aghon,Region 5,,0,10675,0,0,0,0,0,2024,Typhoon
+Aghon,Region 7,,0,629,0,0,0,0,0,2024,Typhoon
+Aghon,Region 8,,0,2031,4,17,21,0,0,2024,Typhoon
+Aghon,NCR,,0,303,0,0,0,0,0,2024,Typhoon
+Aghon,Region 10,,1,0,0,0,0,0,0,2024,Typhoon
+Butchoy,MIMAROPA,,0,165111,40,10,50,0,0,2024,Tropical Depression
+Butchoy,Region 6,,0,57473,49,250,299,0,0,2024,Tropical Depression
+Butchoy,Region 7,,0,32601,4,9,13,0,0,2024,Tropical Depression
+Butchoy,Region 8,,0,8805,0,0,0,0,0,2024,Tropical Depression
+Butchoy,Region 9,,4,134393,20,24,44,0,0,2024,Tropical Depression
+Butchoy,Region 10,,1,12081,12,17,29,710000,100000,2024,Tropical Depression
+Butchoy,Region 11,,1,1804,14,46,60,0,0,2024,Tropical Depression
+Butchoy,Region 12,,0,268142,25,15,40,0,0,2024,Tropical Depression
+Butchoy,CARAGA,,0,102,1,4,5,0,0,2024,Tropical Depression
+Butchoy,BARMM,,1,552971,1,5,6,0,0,2024,Tropical Depression
+Carina,Region 1,,0,440265,14,607,621,1856533490.46,1057920182.39,2024,Super Typhoon
+Carina,Region 2,,0,15115,4,36,40,109458191.44,56517537.25,2024,Super Typhoon
+Carina,Region 3,,2,3447004,487,354,841,1716909898.92,2523341865.15,2024,Super Typhoon
+Carina,CALABARZON,,5,431459,947,6017,6964,340987686.58,71216065.48,2024,Super Typhoon
+Carina,MIMAROPA,,0,165111,40,459,519,1557124830.42,236443449.26,2024,Super Typhoon
+Carina,Region 5,,0,56205,21,80,101,0,48852959.91,2024,Super Typhoon
+Carina,Region 6,,0,57473,49,250,299,0,77256054.21,2024,Super Typhoon
+Carina,Region 8,,0,8805,0,0,0,69569062.43,9557221.86,2024,Super Typhoon
+Carina,Region 9,,4,134393,20,24,44,0,8332258.6,2024,Super Typhoon
+Carina,Region 10,,1,12081,12,17,29,3825019.28,31726726.84,2024,Super Typhoon
+Carina,Region 12,,0,268142,25,15,40,0,247891860.99,2024,Super Typhoon
+Carina,CAR,,0,120941,19,189,208,327111236.87,17120879.52,2024,Super Typhoon
+Carina,NCR,,0,754446,0,0,0,0,0,2024,Super Typhoon
+Enteng,Region 1,,0,180607,2,20,22,69500000,23602504,2024,Severe Tropical Storm
+Enteng,Region 2,,0,7764,0,0,0,111920772.5,83623466.25,2024,Severe Tropical Storm
+Enteng,Region 3,,0,930343,14,83,97,0,1100469046.81,2024,Severe Tropical Storm
+Enteng,CALABARZON,,0,143562,400,866,1266,87333700,0,2024,Severe Tropical Storm
+Enteng,Region 5,,0,1199257,63,5656,5719,356146667.5,688367118.09,2024,Severe Tropical Storm
+Enteng,Region 6,,1,1199,0,2,2,0,7446882.9,2024,Severe Tropical Storm
+Enteng,Region 7,,0,74,5,5,10,0,0,2024,Severe Tropical Storm
+Enteng,Region 8,,0,215213,14,486,500,23645000,4117450.38,2024,Severe Tropical Storm
+Enteng,CAR,,0,4676,0,9,9,50355028.65,0,2024,Severe Tropical Storm
+Enteng,NCR,,0,321911,0,0,0,0,0,2024,Severe Tropical Storm
+F
+G
+H
+I
+Julian,Region 1,,4,262220,17,599,616,738157080.27,387835224.7,2024,Super Typhoon
+Julian,Region 2,,1,43477,107,2087,2194,189062000,129600666.4,2024,Super Typhoon
+Julian,Region 3,,0,0,0,0,0,0,79429806,2024,Super Typhoon
+Julian,CAR,,0,75081,3,30,33,37963930,10510664.7,2024,Super Typhoon
+Kristine,Region 1,,0,445312,15,574,589,123000000,162798589.66,2024,Severe Tropical Storm
+Kristine,Region 2,,0,204326,9,25,34,46717000,0,2024,Severe Tropical Storm
+Kristine,Region 3,,1,1055537,6,112,118,231338978.33,284650850.09,2024,Severe Tropical Storm
+Kristine,CALABARZON,,0,701985,2333,16482,18815,189453199.9,95328915.26,2024,Severe Tropical Storm
+Kristine,MIMAROPA,,0,63801,12,295,307,12803110,300316453.38,2024,Severe Tropical Storm
+Kristine,Region 5,,9,2692366,2053,22469,24522,855204500,1931169099.52,2024,Severe Tropical Storm
+Kristine,Region 6,,0,333893,392,9294,9686,0,18906958.18,2024,Severe Tropical Storm
+Kristine,Region 7,,0,59,0,0,0,0,0,2024,Severe Tropical Storm
+Kristine,Region 8,,0,685049,69,1815,1884,0,7405726.2,2024,Severe Tropical Storm
+Kristine,Region 9,,0,17573,45,40,85,0,0,2024,Severe Tropical Storm
+Kristine,Region 10,,1,6803,25,253,278,0,0,2024,Severe Tropical Storm
+Kristine,Region 11,,0,32147,42,240,282,0,0,2024,Severe Tropical Storm
+Kristine,Region 12,,0,90236,49,115,164,15000000,16212237,2024,Severe Tropical Storm
+Kristine,CARAGA,,0,64442,20,80,100,0,0,2024,Severe Tropical Storm
+Kristine,BARMM,,0,500583,9,12,21,0,0,2024,Severe Tropical Storm
+Kristine,CAR,,0,12710,4,177,181,67350388.4,18621027,2024,Severe Tropical Storm
+Kristine,NCR,,0,100366,0,0,0,0,0,2024,Severe Tropical Storm
+Leon,Region 1,,0,125979,258,7367,7625,27500000,473757066.17,2024,Super Typhoon
+Leon,Region 2,,1,42339,4,569,573,69724369.8,666014111.82,2024,Super Typhoon
+Leon,Region 3,,1,89485,8,23,31,1335727826.54,170383004.9,2024,Super Typhoon
+Leon,CALABARZON,,0,981284,5456,53164,58620,2514795200.83,458621312.63,2024,Super Typhoon
+Leon,Region 5,,6,563438,4723,57583,62306,4655806440.92,1895650740.06,2024,Super Typhoon
+Leon,Region 8,,0,275106,206,2968,3174,0,335384127.4,2024,Super Typhoon
+Leon,Region 10,,0,7076,87,1085,1172,2000000,0,2024,Super Typhoon
+Leon,Region 12,,0,21333,9,23,32,0,6685933,2024,Super Typhoon
+Leon,CAR,,3,14950,2,168,170,34183040,3841219.6,2024,Super Typhoon
+Marce,Region 1,,0,46035,58,2236,2294,0,16247830.58,2024,Typhoon
+Marce,Region 2,,1,277074,1031,20801,21832,176478600,0,2024,Typhoon
+Marce,CAR,,0,64405,58,4756,4814,0,0,2024,Typhoon
+n
+o
+p
+Querubin,Region 10,Misamis Occidental,0,549,0,0,0,0,0,2024,Tropical Depression
+Querubin,Region 11,Davao del Norte,0,157,0,0,0,0,0,2024,Tropical Depression
+Romina,MIMAROPA,,4,38841,2,18,20,581000000,0,2024,Tropical Depression
+Romina,Region 11,,0,157,0,0,0,0,0,2024,Tropical Depression
+Romina,Region 12,,0,49328,0,0,0,0,0,2024,Tropical Depression

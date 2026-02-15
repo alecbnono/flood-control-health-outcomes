@@ -1,0 +1,99 @@
+Location,Region
+"Port Area, Manila",NCR
+"Science Garden, Quezon City",NCR
+"Ninoy Aquino International Airport, Pasay City",NCR
+"Ninoy Aquino International Airport, Parañaque City",NCR
+"Baguio City",CAR
+"Baguio City, Benguet",CAR
+"Mt. Cabuyao, Tuba, Benguet",CAR
+"La Trinidad, Benguet",CAR
+"Laoag City, Ilocos Norte",Region I
+"Laoag, Ilocos Norte",Region I
+"Batac, Ilocos Norte",Region I
+"Batac City, Ilocos Norte",Region I
+"Sinait, Ilocos Sur",Region I
+"Bacnotan, La Union",Region I
+"Dagupan City, Pangasinan",Region I
+"Basco, Batanes",Region II
+"Itbayat, Batanes",Region II
+"Aparri, Cagayan",Region II
+"Calayan, Cagayan",Region II
+"Tuguegarao City, Cagayan",Region II
+"Echague, Isabela",Region II
+"Bayombong, Nueva Vizcaya",Region II
+"Abucay, Bataan",Region III
+"Morong, Bataan",Region III
+"Subic Bay International Airport, Morong, Bataan",Region III
+"Iba, Zambales",Region III
+"Subic, Zambales",Region III
+"Cubi Pt., Zambales",Region III
+"Cubi Pt., Subic",Region III
+"Cubi Point, Subic Bay",Region III
+"Cubi Pt., Subic Bay",Region III
+"Subic Bay International Airport, Subic Bay",Region III
+"Subic Bay International Airport, Mabalacat, Pampanga",Region III
+"Clark International Airport, Pampanga",Region III
+"Clark International Airport, Mabalacat, Pampanga",Region III
+"Baler, Aurora",Region III
+"Casiguran, Aurora",Region III
+"Muñoz City, Nueva Ecija",Region III
+"Mt. Matulid, Norzagaray, Bulacan",Region III
+"Angat Dam, Norzagaray, Bulacan",Region III
+"Doña Remedios Trinidad, Bulacan (near Talaguio River)",Region III
+"Doña Remedios Trinidad, Bulacan (near Matulid River)",Region III
+"Tarlac City, Tarlac",Region III
+"Camiling, Tarlac",Region III
+"Tanay, Rizal",Region IV-A
+"Tayabas City, Quezon",Region IV-A
+"Tayabas, Quezon",Region IV-A
+"Alabat, Quezon",Region IV-A
+"Infanta, Quezon",Region IV-A
+"Mulanay, Quezon",Region IV-A
+"Ambulong, Tanauan City, Batangas",Region IV-A
+"Sangley Pt., Cavite City, Cavite",Region IV-A
+"Sangley Pt. Cavite City, Cavite",Region IV-A
+"Indang, Cavite",Region IV-A
+"Los Baños, Laguna",Region IV-A
+"San Jose, Occidental Mindoro",Region IV-B
+"Calapan City, Oriental Mindoro",Region IV-B
+"Romblon City, Romblon",Region IV-B
+"Romblon, Romblon",Region IV-B
+"Puerto Princesa City, Palawan",Region IV-B
+"Coron, Palawan",Region IV-B
+"Cuyo, Palawan",Region IV-B
+"Pag-asa Island, Kalayaan, Palawan",Region IV-B
+"Virac, Catanduanes",Region V
+"Pili, Camarines Sur",Region V
+"Daet, Camarines Norte",Region V
+"Legazpi City, Albay",Region V
+"Guinobatan, Albay",Region V
+"Juban, Sorsogon",Region V
+"Masbate City, Masbate",Region V
+"Dumangas, Iloilo",Region VI
+"Roxas City, Capiz",Region VI
+"Mambusao, Capiz",Region VI
+"La Carlota City, Negros Occidental",Region VI
+"Mactan-Cebu International Airport, Lapu-Lapu City",Region VII
+"Lapu-Lapu City",Region VII
+"Dauis, Bohol",Region VII
+"Panglao, Bohol",Region VII
+"La Carlota City, Negros Oriental",Region VII
+"Tacloban City, Leyte",Region VIII
+"Baybay City, Leyte",Region VIII
+"Maasin City, Southern Leyte",Region VIII
+"Catarman, Northern Samar",Region VIII
+"Catarman (Synoptic), Northern Samar",Region VIII
+"Catarman (Agromet), Northern Samar",Region VIII
+"Catbalogan City, Samar",Region VIII
+"Guiuan, Eastern Samar",Region VIII
+"Borongan City, Eastern Samar",Region VIII
+"El Salvador City, Misamis Oriental",Region X
+"Malaybalay City, Bukidnon",Region X
+"Malaybalay, Bukidnon",Region X
+"PCA Bago-Oshiro, Davao City",Region XI
+"Tagum City, Davao del Norte",Region XI
+"Hinatuan, Surigao Del Sur",Region XIII
+"Hinatuan, Surigao del Sur",Region XIII
+"Surigao City, Surigao del Norte",Region XIII
+"Surigao City, Surigao Del Norte",Region XIII
+"Surigao City, Surigao del Sur",Region XIII

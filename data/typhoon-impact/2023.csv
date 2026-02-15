@@ -1,0 +1,45 @@
+Cyclone Name,Region,Province,Deaths,Affected,Houses destroyed,Houses damaged,Total Houses,Damage to Infrastructure (PhP),Damage to Agriculture + Fisheries (PhP),Year,Category
+Amang,Region 5,,0,95337,0,0,0,0,12341646.77,2023,Tropical Depression
+Amang,CALABARZON,,0,1088,0,0,0,0,0,2023,Tropical Depression
+Betty,Region 1,,0,4917,1,10,11,0,108000,2023,Tropical Cyclone
+Betty,Region 2,,0,24355,0,0,0,0,0,2023,Tropical Cyclone
+Betty,Region 3,,0,11361,2,2,4,0,0,2023,Tropical Cyclone
+Betty,MIMAROPA,,0,2200,0,0,0,0,0,2023,Tropical Cyclone
+Betty,Region 6,,0,39455,7,36,43,0,0,2023,Tropical Cyclone
+Betty,CAR,,0,22017,1,43,44,0,25000,2023,Tropical Cyclone
+Dodong,Region 1,,0,27485,0,0,0,0,0,2023,Tropical Storm
+Dodong,Region 2,,0,157691,45,108,153,0,199000000.00,2023,Tropical Storm
+Dodong,Region 3,,0,220078,0,0,0,100000000.00,0,2023,Tropical Storm
+Dodong,CALABARZON,,0,193,0,14,14,0,0,2023,Tropical Storm
+Dodong,MIMAROPA,,0,130,0,0,0,0,0,2023,Tropical Storm
+Dodong,Region 6,,0,23171,0,0,0,0,0,2023,Tropical Storm
+Dodong,NCR,,0,0,0,0,0,0,0,2023,Tropical Storm
+Egay,Region 1,,0,945781,421,55966,56387,638510000,721200000.00,2023,Super Typhoon
+Egay,Region 2,,0,395618,203,7300,7503,862300000,593443500.93,2023,Super Typhoon
+Egay,Region 3,,0,1258100,0,0,0,434000000,1050000000.00,2023,Super Typhoon
+Egay,CALABARZON,,0,10520,0,0,0,0,213500.00,2023,Super Typhoon
+Egay,MIMAROPA,,0,1818,0,0,0,10949100,0,2023,Super Typhoon
+Egay,Region 5,,0,3983,0,0,0,52005000,0,2023,Super Typhoon
+Egay,Region 6,,0,1773525,0,0,0,1500000,9234566.30,2023,Super Typhoon
+Egay,CAR,,2,35231,1,114,115,736841482.19,50201787.23,2023,Super Typhoon
+Goring,Region 1,,0,995,0,24,24,643510,13028205.00,2023,Super Typhoon
+Goring,Region 2,,0,95618,203,7293,7496,483173826.36,774240116.95,2023,Super Typhoon
+Goring,Region 3,,0,246978,0,10,10,0,5737325.56,2023,Super Typhoon
+Goring,CALABARZON,,0,749,5,8,13,0,213500.00,2023,Super Typhoon
+Goring,MIMAROPA,,0,5348,10,45,55,10949100,29678492.99,2023,Super Typhoon
+Goring,Region 6,,1,149799,88,1419,1507,1500000,192564208.39,2023,Super Typhoon
+Goring,CAR,,0,35231,6,114,120,87610000,50201787.23,2023,Super Typhoon
+Jenny,Region 1,,0,15461,0,0,0,0,0,2023,Tropical Storm
+Jenny,Region 2,,0,61449,0,0,0,0,0,2023,Tropical Storm
+Jenny,Region 3,,0,3109,0,0,0,0,0,2023,Tropical Storm
+Jenny,CALABARZON,,0,7797,0,0,0,0,0,2023,Tropical Storm
+Jenny,MIMAROPA,,0,6012,0,0,0,0,0,2023,Tropical Storm
+Jenny,Region 6,,1,290388,1,25,26,0,0,2023,Tropical Storm
+Jenny,CAR,,0,16018,0,0,0,0,0,2023,Tropical Storm
+Jenny,NCR,,0,7819,0,0,0,0,0,2023,Tropical Storm
+Kabayan,MIMAROPA,,0,350,2,0,2,0,0,2023,Tropical Storm
+Kabayan,Region 6,,0,983,0,0,0,0,0,2023,Tropical Storm
+Kabayan,Region 8,,0,332,0,0,0,0,0,2023,Tropical Storm
+Kabayan,Region 10,,0,527,0,2,2,0,40000,2023,Tropical Storm
+Kabayan,Region 11,,0,69759,120,556,676,0,0,2023,Tropical Storm
+Kabayan,CARAGA,,0,353915,65,2106,2171,2352000,0,2023,Tropical Storm
