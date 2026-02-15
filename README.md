@@ -2,6 +2,10 @@
 
 This research examines the efficacy of Philippine flood control investments by analyzing the correlation between regional public infrastructure spending and post-disaster health metrics—specifically mortality and morbidity rates—during tropical cyclone events from 2019 to 2025. By controlling for meteorological intensity (24-hour peak rainfall and maximum wind gusts), the study quantifies how infrastructure spending serves as a protective factor against environmental hazards.
 
+## Research Rationale
+
+Despite significant annual budget allocations for flood control infrastructure, regional disparities in post-disaster casualties persist. This project seeks to audit the "human return on investment" for infrastructure spending. By cross-referencing meteorological intensity with casualty counts, we aim to identify where spending is effectively saving lives and where there is a concerning disconnect between budget execution and public safety.
+
 ## Features
 
 **Integrated Disaster-Financial Dataset:** Combines multi-year meteorological data (rainfall and wind speeds) with regional infrastructure project spending and NDRRMC health impact statistics.
