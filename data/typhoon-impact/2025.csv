@@ -1,0 +1,80 @@
+Cyclone Name,Region,Province,Deaths,Injuries,Affected,Houses destroyed,Houses damaged,Total Houses,Damage to Infrastructure (PhP),Damage to Agriculture + Fisheries (PhP),Year,Category
+Auring,Region 3,,0,0,11016,0,4,4,0,0,2025,Tropical Depression
+Auring,Region 7,,0,0,206,0,0,0,0,0,2025,Tropical Depression
+Auring,Region 9,,0,0,4588,1,69,70,0,0,2025,Tropical Depression
+Auring,Region 10,,3,0,1016,0,630,630,0,0,2025,Tropical Depression
+Auring,Region 11,,0,0,611,1,0,1,0,0,2025,Tropical Depression
+Auring,Region 12,,0,0,780,0,0,0,0,0,2025,Tropical Depression
+Auring,BARMM,,0,0,410,8,77,85,0,0,2025,Tropical Depression
+Bising,Region 1,,0,0,1959,0,0,0,0,0,2025,Severe Tropical Storm
+Bising,Region 3,,0,0,95104,4,0,4,0,0,2025,Severe Tropical Storm
+Bising,CAR,,0,0,335,0,19,19,12400000,0,2025,Severe Tropical Storm
+Bising,NCR,,0,0,6000,0,0,0,0,0,2025,Severe Tropical Storm
+Crising and Dante and Emong,Region 1,,0,0,1056328,12,438,450,1280531693.06,1805549.22,2025,Combined Effects
+Crising and Dante and Emong,Region 2,,0,0,25718,1,5,6,75600000.00,4069019.00,2025,Combined Effects
+Crising and Dante and Emong,CAR,,0,9,51343,18,45,63,74239640.10,90482.00,2025,Combined Effects
+Crising and Dante and Emong,Region 3,,3,0,2639003,37,118,155,3173016468.38,46640321.57,2025,Combined Effects
+Crising and Dante and Emong,NCR,,0,0,704480,0,0,0,0,0,2025,Combined Effects
+Crising and Dante and Emong,CALABARZON,,0,2,374584,172,3491,3663,854644323.27,99482799.09,2025,Combined Effects
+Crising and Dante and Emong,MIMAROPA,,0,0,264914,9,19,28,289062400.00,173942253.71,2025,Combined Effects
+Crising and Dante and Emong,Region 5,,0,0,393972,0,7,7,0,11460868.30,2025,Combined Effects
+Crising and Dante and Emong,Region 6,,0,0,350442,95,710,805,161827992.38,27868653.86,2025,Combined Effects
+Crising and Dante and Emong,NIR,,0,0,188416,53,443,496,0,60357273.00,2025,Combined Effects
+Crising and Dante and Emong,Region 7,,0,0,13941,0,0,0,0,0,2025,Combined Effects
+Crising and Dante and Emong,Region 9,,0,1,45150,105,296,401,0,1200.00,2025,Combined Effects
+Crising and Dante and Emong,Region 10,,1,1,19850,20,148,168,0,0,2025,Combined Effects
+Crising and Dante and Emong,Region 11,,0,0,3204,59,80,139,0,0,2025,Combined Effects
+Crising and Dante and Emong,Region 12,,0,0,8277,27,236,263,0,58681824.00,2025,Combined Effects
+Crising and Dante and Emong,CARAGA,,1,0,115,0,1,1,0,0,2025,Combined Effects
+Crising and Dante and Emong,BARMM,,0,0,33074,176,308,484,0,0,2025,Combined Effects
+Isang,Region 2,,0,0,113,0,0,0,0,0,2025,Tropical Storm
+Isang,CAR,,0,0,9,0,1,1,0,0,2025,Tropical Storm
+Isang,Region 5,,0,0,13778,0,0,0,0,0,2025,Tropical Storm
+Isang,Region 12,,0,0,11892,0,1,1,0,0,2025,Tropical Storm
+Isang,BARMM,,0,0,24911,0,0,0,0,0,2025,Tropical Storm
+Isang,Region 11,,0,0,0,0,0,0,0,0,2025,Tropical Storm
+Jacinto,CALABARZON,,0,0,1053,0,0,0,0,0,2025,Tropical Depression
+Jacinto,MIMAROPA,,0,0,4588,1,69,70,0,0,2025,Tropical Depression
+Jacinto,Bicol,,0,0,27379,0,0,0,0,0,2025,Tropical Depression
+Jacinto,Zamboanga Peninsula,,0,0,18956,1,0,1,0,0,2025,Tropical Depression
+Jacinto,Soccsksargen,,0,0,780,0,0,0,0,0,2025,Tropical Depression
+Jacinto,Caraga,,0,0,663,0,0,0,0,0,2025,Tropical Depression
+Jacinto,BARMM,,0,0,140060,18,356,374,710000,0,2025,Tropical Depression
+Lannie,Region 3,,0,0,83675,0,0,0,0,0,2025,Tropical Depression
+Lannie,NCR,,0,0,6000,0,0,0,0,0,2025,Tropical Depression
+Paolo,Region 1,,0,0,36370,0,0,0,0,0,2025,Typhoon
+Paolo,Region 2,,1,0,95618,0,0,0,0,0,2025,Typhoon
+Paolo,Region 3,,0,0,246306,1,26,27,0,0,2025,Typhoon
+Paolo,CALABARZON,,0,0,749,0,0,0,0,0,2025,Typhoon
+Paolo,CAR,,0,0,35231,0,0,0,804360,105389280,2025,Typhoon
+Ramil,Region 1,,0,0,15461,0,0,0,0,0,2025,Tropical Storm
+Ramil,Region 2,,1,0,61449,1,0,1,0,13125200.00,2025,Tropical Storm
+Ramil,Region 3,,0,0,3109,0,0,0,0,0,2025,Tropical Storm
+Ramil,CALABARZON,,0,0,7797,0,0,0,0,0,2025,Tropical Storm
+Ramil,CAR,,0,0,16018,0,0,0,0,4537000.00,2025,Tropical Storm
+Tino,Region 6,,0,0,1224877,15962,56057,72019,161827992.38,27868653.86,2025,Typhoon
+Tino,Region 7,Cebu,139,0,1511900,12130,120560,132690,73334141,1200000000,2025,Typhoon
+Tino,Region 8,,0,0,706549,4206,23854,28060,0,0,2025,Typhoon
+Tino,CALABARZON,,0,0,0,0,0,0,0,0,2025,Typhoon
+Tino,MIMAROPA,,0,0,264914,9,19,28,289062400.00,173942253.71,2025,Typhoon
+Tino,CARAGA,,1,0,353915,65,2106,2171,2352000,0,2025,Typhoon
+Tino,NCR,,0,0,704480,0,0,0,0,0,2025,Typhoon
+Uwan,Region 1,,0,0,426884,0,0,0,0,0,2025,Super Typhoon
+Uwan,Region 2,,3,0,0,0,0,0,0,0,2025,Super Typhoon
+Uwan,Region 3,,0,0,158697,0,0,0,0,0,2025,Super Typhoon
+Uwan,CALABARZON,,0,0,0,0,0,0,0,0,2025,Super Typhoon
+Uwan,MIMAROPA,,0,0,0,0,0,0,0,0,2025,Super Typhoon
+Uwan,Region 5,,1,2,1414412,0,0,0,0,0,2025,Super Typhoon
+Uwan,Region 6,,1,0,0,0,0,0,0,0,2025,Super Typhoon
+Uwan,Region 8,,1,1,422392,0,0,0,0,0,2025,Super Typhoon
+Uwan,Region 9,,1,0,0,0,0,0,0,0,2025,Super Typhoon
+Uwan,CAR,,0,0,0,0,0,0,0,0,2025,Super Typhoon
+Uwan,CARAGA,,0,0,99109,0,0,0,0,0,2025,Super Typhoon
+Uwan,NCR,,0,0,0,0,0,0,0,0,2025,Super Typhoon
+Verbena,Region 5,,0,0,10332,0,0,0,0,0,2025,Tropical Depression
+Verbena,Region 6,,0,0,8375,0,23,23,0,0,2025,Tropical Depression
+Verbena,Region 7,,0,0,32308,4,204,208,0,0,2025,Tropical Depression
+Verbena,Region 8,,0,0,1486,0,0,0,0,0,2025,Tropical Depression
+Verbena,Region 13,,0,0,46923,6,0,6,0,0,2025,Tropical Depression
+Verbena,CAR,,0,0,335,0,19,19,18560.00,0,2025,Tropical Depression
+Verbena,NCR,,0,0,1691,0,0,0,0,0,2025,Tropical Depression
