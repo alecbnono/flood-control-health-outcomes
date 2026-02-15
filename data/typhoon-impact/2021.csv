@@ -1,65 +1,65 @@
-Cyclone Name,Region,Province,Deaths,Affected,Houses destroyed,Houses damaged,Total Houses,Damage to Infrastructure (PhP),Damage to Agriculture + Fisheries (PhP),Year,Category
-Auring,CARAGA,,1,121770,60,180,240,0,21400000,2021,Tropical Storm
-Auring,Region 5,,0,0,0,47,0,0,0,2021,Tropical Storm
-Auring,Region 7,,0,0,0,83,0,0,0,2021,Tropical Storm
-Auring,Region 8,,0,0,0,5,0,0,0,2021,Tropical Storm
-Auring,Region 10,,0,0,0,6661,0,0,0,2021,Tropical Storm
-Auring,Region 11,,0,0,0,1796,0,0,0,2021,Tropical Storm
-Bising,Region 2,,0,303,0,0,0,0,0,2021,Super Typhoon
-Bising,Region 5,,0,138546,0,0,0,0,0,2021,Super Typhoon
-Bising,Region 8,,6,311559,150,3306,3456,0,261131102.73,2021,Super Typhoon
-Bising,CARAGA,,0,257,1,5,6,0,0,2021,Super Typhoon
-Crising,Region 9,,0,45075,4,11,15,0,0,2021,Tropical Storm
-Crising,Region 11,,0,14522,2,95,97,0,0,2021,Tropical Storm
-Dante,Region 3,,0,150,0,0,0,0,0,2021,Tropical Storm
-Dante,CALABARZON,,0,2628,0,0,0,0,0,2021,Tropical Storm
-Dante,MIMAROPA,,0,745,0,0,0,0,0,2021,Tropical Storm
-Dante,Region 5,,0,1780,31,264,295,0,0,2021,Tropical Storm
-Dante,Region 6,,0,15470,81,2552,2633,0,0,2021,Tropical Storm
-Dante,Region 7,,0,1415,0,0,0,0,0,2021,Tropical Storm
-Dante,Region 8,,0,9434,33,239,272,0,0,2021,Tropical Storm
-Dante,Region 11,,0,361,3,3,6,0,0,2021,Tropical Storm
-Dante,Region 12,,0,0,0,0,0,0,0,2021,Tropical Storm
-Dante,CARAGA,,0,0,0,3,3,0,0,2021,Tropical Storm
-Emong,Region 9,,0,0,0,0,0,0,0,2021,Tropical Storm
-Fabian,Region 1,,0,4201,0,35,35,150000.00,0,2021,Typhoon
-Fabian,Region 3,,0,603,0,3,3,14538220.81,0,2021,Typhoon
-Fabian,CALABARZON,,0,3494,40,97,137,41519091.21,0,2021,Typhoon
-Fabian,MIMAROPA,,0,78257,35,23,58,191675385.00,1278141403.82,2021,Typhoon
-Fabian,Region 5,,0,0,0,0,0,0,5479886.41,2021,Typhoon
-Fabian,Region 6,,0,1202,38,118,156,3824600.00,2598114.70,2021,Typhoon
-Fabian,CAR,,0,685,5,52,57,0,1486111.50,2021,Typhoon
-Fabian,NCR,,0,25881,20,0,20,0,0,2021,Typhoon
-Gorio,Region 1,,0,0,0,0,0,0,0,2021,Tropical Storm
-Huaning,MIMAROPA,,0,0,0,0,0,0,0,2021,Tropical Depression
-Isang,Region 2,,0,0,0,0,0,0,0,2021,Tropical Storm
-Jolina,NCR,,0,247,0,0,0,0,0,2021,Typhoon
-Jolina,Region 3,,0,7464,0,0,0,0,0,2021,Typhoon
-Jolina,CALABARZON,,0,75016,313,4703,5016,0,0,2021,Typhoon
-Jolina,MIMAROPA,,0,0,8,1294,1302,0,0,2021,Typhoon
-Jolina,Region 5,,20,0,327,1708,2035,0,1349221036.10,2021,Typhoon
-Jolina,Region 6,,0,15470,2,8,10,0,0,2021,Typhoon
-Jolina,Region 8,,0,0,569,9919,10488,63676053.00,0,2021,Typhoon
-Kiko,Region 3,,0,20568,0,0,0,0,0,2021,Super Typhoon
-Kiko,MIMAROPA,,0,338,0,0,0,0,37354667.52,2021,Super Typhoon
-Lannie,MIMAROPA,,0,300,0,0,0,0,0,2021,Tropical Depression
-Lannie,Region 6,,1,25386,4,17,21,0,12225109.47,2021,Tropical Depression
-Lannie,Region 7,,1,0,0,0,0,0,0,2021,Tropical Depression
-Lannie,Region 8,,0,0,0,0,0,0,0,2021,Tropical Depression
-Maring,Region 1,,26,429089,141,5930,6071,911008500.00,1392604998.65,2021,Severe Tropical Storm
-Maring,Region 2,,2,51861,6,6,12,37876550.00,276832083.36,2021,Severe Tropical Storm
-Maring,Region 3,,0,0,28,1,29,0,42060692.88,2021,Severe Tropical Storm
-Maring,CALABARZON,,0,0,2,0,2,0,0,2021,Severe Tropical Storm
-Maring,MIMAROPA,,5,0,52,60,112,980000.00,33504242.84,2021,Severe Tropical Storm
-Maring,Region 6,,0,0,23,152,175,500000.00,70854.06,2021,Severe Tropical Storm
-Maring,CARAGA,,0,0,8,45,53,1980000.00,960550.00,2021,Severe Tropical Storm
-Maring,CAR,,7,130655,57,888,945,104070238.36,426997123.36,2021,Severe Tropical Storm
+Cyclone Name,Region,Province,Deaths,Injuries,Affected,Houses destroyed,Houses damaged,Total Houses,Damage to Infrastructure (PhP),Damage to Agriculture + Fisheries (PhP),Year,Category
+Auring,CARAGA,,1,2,121770,60,180,240,0,21400000,2021,Tropical Storm
+Auring,Region 5,,0,0,0,0,47,0,0,0,2021,Tropical Storm
+Auring,Region 7,,0,0,0,0,83,0,0,0,2021,Tropical Storm
+Auring,Region 8,,0,0,0,0,5,0,0,0,2021,Tropical Storm
+Auring,Region 10,,0,0,0,0,6661,0,0,0,2021,Tropical Storm
+Auring,Region 11,,0,0,0,0,1796,0,0,0,2021,Tropical Storm
+Bising,Region 2,,0,0,303,0,0,0,0,0,2021,Super Typhoon
+Bising,Region 5,,0,0,138546,0,0,0,0,0,2021,Super Typhoon
+Bising,Region 8,,6,20,311559,150,3306,3456,0,261131102.73,2021,Super Typhoon
+Bising,CARAGA,,0,0,257,1,5,6,0,0,2021,Super Typhoon
+Crising,Region 9,,0,0,45075,4,11,15,0,0,2021,Tropical Storm
+Crising,Region 11,,0,4,14522,2,95,97,0,0,2021,Tropical Storm
+Dante,Region 3,,0,0,150,0,0,0,0,0,2021,Tropical Storm
+Dante,CALABARZON,,0,0,2628,0,0,0,0,0,2021,Tropical Storm
+Dante,MIMAROPA,,0,0,745,0,0,0,0,0,2021,Tropical Storm
+Dante,Region 5,,0,0,1780,31,264,295,0,0,2021,Tropical Storm
+Dante,Region 6,,0,0,15470,81,2552,2633,0,0,2021,Tropical Storm
+Dante,Region 7,,0,0,1415,0,0,0,0,0,2021,Tropical Storm
+Dante,Region 8,,0,0,9434,33,239,272,0,0,2021,Tropical Storm
+Dante,Region 11,,0,0,361,3,3,6,0,0,2021,Tropical Storm
+Dante,Region 12,,0,0,0,0,0,0,0,0,2021,Tropical Storm
+Dante,CARAGA,,0,0,0,0,3,3,0,0,2021,Tropical Storm
+Emong,Region 9,,0,0,0,0,0,0,0,0,2021,Tropical Storm
+Fabian,Region 1,,0,0,4201,0,35,35,150000.00,0,2021,Typhoon
+Fabian,Region 3,,0,0,603,0,3,3,14538220.81,0,2021,Typhoon
+Fabian,CALABARZON,,0,0,3494,40,97,137,41519091.21,0,2021,Typhoon
+Fabian,MIMAROPA,,0,0,78257,35,23,58,191675385.00,1278141403.82,2021,Typhoon
+Fabian,Region 5,,0,0,0,0,0,0,0,5479886.41,2021,Typhoon
+Fabian,Region 6,,0,0,1202,38,118,156,3824600.00,2598114.70,2021,Typhoon
+Fabian,CAR,,0,0,685,5,52,57,0,1486111.50,2021,Typhoon
+Fabian,NCR,,0,0,25881,20,0,20,0,0,2021,Typhoon
+Gorio,Region 1,,0,0,0,0,0,0,0,0,2021,Tropical Storm
+Huaning,MIMAROPA,,0,0,0,0,0,0,0,0,2021,Tropical Depression
+Isang,Region 2,,0,0,0,0,0,0,0,0,2021,Tropical Storm
+Jolina,NCR,,0,0,247,0,0,0,0,0,2021,Typhoon
+Jolina,Region 3,,0,0,7464,0,0,0,0,0,2021,Typhoon
+Jolina,CALABARZON,,0,0,75016,313,4703,5016,0,0,2021,Typhoon
+Jolina,MIMAROPA,,0,0,0,8,1294,1302,0,0,2021,Typhoon
+Jolina,Region 5,,20,33,0,327,1708,2035,0,1349221036.10,2021,Typhoon
+Jolina,Region 6,,0,0,15470,2,8,10,0,0,2021,Typhoon
+Jolina,Region 8,,0,0,0,569,9919,10488,63676053.00,0,2021,Typhoon
+Kiko,Region 3,,0,0,20568,0,0,0,0,0,2021,Super Typhoon
+Kiko,MIMAROPA,,0,27,338,0,0,0,0,37354667.52,2021,Super Typhoon
+Lannie,MIMAROPA,,0,0,300,0,0,0,0,0,2021,Tropical Depression
+Lannie,Region 6,,1,0,25386,4,17,21,0,12225109.47,2021,Tropical Depression
+Lannie,Region 7,,1,0,0,0,0,0,0,0,2021,Tropical Depression
+Lannie,Region 8,,0,0,0,0,0,0,0,0,2021,Tropical Depression
+Maring,Region 1,,26,3,429089,141,5930,6071,911008500.00,1392604998.65,2021,Severe Tropical Storm
+Maring,Region 2,,2,0,51861,6,6,12,37876550.00,276832083.36,2021,Severe Tropical Storm
+Maring,Region 3,,0,0,0,28,1,29,0,42060692.88,2021,Severe Tropical Storm
+Maring,CALABARZON,,0,0,0,2,0,2,0,0,2021,Severe Tropical Storm
+Maring,MIMAROPA,,5,0,0,52,60,112,980000.00,33504242.84,2021,Severe Tropical Storm
+Maring,Region 6,,0,0,0,23,152,175,500000.00,70854.06,2021,Severe Tropical Storm
+Maring,CARAGA,,0,0,0,8,45,53,1980000.00,960550.00,2021,Severe Tropical Storm
+Maring,CAR,,7,2,130655,57,888,945,104070238.36,426997123.36,2021,Severe Tropical Storm
 Nando,Region 2,,0,0,0,0,0,0,0,2021,Tropical Depression
-Odette,MIMAROPA,,25,62264,6,23,29,1482902055,2257525328,2021,Super Typhoon
-Odette,Region 6,,54,57866,18,3749,3767,0,2771875553,2021,Super Typhoon
-Odette,Region 7,,109,327008,56,5381,5437,2155000,618141700,2021,Super Typhoon
-Odette,Region 8,,26,173053,204,7270,7474,173400000,1166744446,2021,Super Typhoon
-Odette,Region 10,,8,4046,7,201,208,244888000,98777609,2021,Super Typhoon
-Odette,CARAGA,,71,106562,241,9928,10169,12823973975,742395847,2021,Super Typhoon
-Paolo,Region 8,,0,0,0,0,0,0,0,2021,Tropical Storm
-Quedan,Region 2,,0,0,0,0,0,0,0,2021,Tropical Storm
+Odette,MIMAROPA,,25,0,62264,6,23,29,1482902055,2257525328,2021,Super Typhoon
+Odette,Region 6,,54,0,57866,18,3749,3767,0,2771875553,2021,Super Typhoon
+Odette,Region 7,,220,1371,327008,56,5381,5437,2155000,618141700,2021,Super Typhoon
+Odette,Region 8,,26,0,173053,204,7270,7474,173400000,1166744446,2021,Super Typhoon
+Odette,Region 10,,8,0,4046,7,201,208,244888000,98777609,2021,Super Typhoon
+Odette,CARAGA,,71,0,106562,241,9928,10169,12823973975,742395847,2021,Super Typhoon
+Paolo,Region 8,,0,0,0,0,0,0,0,0,2021,Tropical Storm
+Quedan,Region 2,,0,0,0,0,0,0,0,0,2021,Tropical Storm
