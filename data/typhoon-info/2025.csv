@@ -1,0 +1,97 @@
+Typhoon,Year,Location,Max 24-hour Rainfall (mm),Peak Gust (10 mins sustained) (m/s)
+Crising,2025,"Mt. Matulid, Norzagaray, Bulacan",225.0,0
+Crising,2025,"Bacnotan, La Union",214.6,0
+Crising,2025,"Sinait, Ilocos Sur",202.6,0
+Crising,2025,"Abucay, Bataan",200.8,0
+Crising,2025,"Angat Dam, Norzagaray, Bulacan",197.0,0
+Crising,2025,"Calayan, Cagayan",0,28
+Crising,2025,"Itbayat, Batanes",0,20
+Crising,2025,"Laoag, Ilocos Norte",0,17
+Crising,2025,"Baler, Aurora",0,15
+Crising,2025,"Aparri, Cagayan",0,14
+Emong,2025,"Baguio City",302.0,25
+Emong,2025,"Cubi Point, Subic Bay",280.1,20
+Emong,2025,"Bacnotan, La Union",275.9,22
+Emong,2025,"Abucay, Bataan",234.3,0
+Emong,2025,"Iba, Zambales",206.4,21
+Emong,2025,"Calayan, Cagayan",0,18
+Isang,2025,"Iba, Zambales",173.2,10
+Isang,2025,"Juban, Sorsogon",152.6,0
+Isang,2025,"La Carlota City, Negros Occidental",127.0,0
+Isang,2025,"San Jose, Occidental Mindoro",77.7,0
+Isang,2025,"Cubi Point, Subic Bay",72.0,0
+Isang,2025,"Casiguran, Aurora",0,16
+Isang,2025,"Baguio City",0,15
+Isang,2025,"Baler, Aurora",0,12
+Isang,2025,"Muñoz City, Nueva Ecija",0,5
+Mirasol,2025,"Casiguran, Aurora",208.0,26
+Mirasol,2025,"La Trinidad, Benguet",96.5,0
+Mirasol,2025,"Baler, Aurora",93.4,10
+Mirasol,2025,"Echague, Isabela",78.8,0
+Mirasol,2025,"Tanay, Rizal",75.6,0
+Mirasol,2025,"Basco, Batanes",0,15
+Mirasol,2025,"Calayan, Cagayan",0,15
+Mirasol,2025,"Infanta, Quezon",0,8
+Nando,2025,"La Trinidad, Benguet",370.9,0
+Nando,2025,"Baguio City",327.0,0
+Nando,2025,"Sinait, Ilocos Sur",267.8,19
+Nando,2025,"Batac, Ilocos Norte",210.4,0
+Nando,2025,"Laoag City, Ilocos Norte",178.9,30
+Nando,2025,"Calayan, Cagayan",0,80
+Nando,2025,"Itbayat, Batanes",0,31
+Nando,2025,"Aparri, Cagayan",0,30
+Nando,2025,"Tuguegarao City, Cagayan",0,14
+Nando,2025,"Bayombong, Nueva Vizcaya",0,14
+Opong,2025,"Baybay City, Leyte",261.1,0
+Opong,2025,"Catbalogan City, Samar",250.8,0
+Opong,2025,"Maasin City, Southern Leyte",213.1,0
+Opong,2025,"Coron, Palawan",135.6,0
+Opong,2025,"Roxas City, Capiz",132.0,18
+Opong,2025,"Romblon, Romblon",0,41
+Opong,2025,"Masbate City, Masbate",0,34
+Opong,2025,"Guiuan, Eastern Samar",0,21
+Opong,2025,"Tanay, Rizal",0,20
+Paolo,2025,"Iba, Zambales",277.5,16
+Paolo,2025,"Cubi Pt., Subic Bay",174.5,17
+Paolo,2025,"Baguio City",134.4,20
+Paolo,2025,"Abucay, Bataan",133.7,0
+Paolo,2025,"Casiguran, Aurora",110.0,26
+Paolo,2025,"Echague, Isabela",0,20.5
+Paolo,2025,"Baler, Aurora",0,20
+Ramil,2025,"Guiuan, Eastern Samar",400.7,0
+Ramil,2025,"Roxas City, Capiz",365.5,0
+Ramil,2025,"Iba, Zambales",149.3,0
+Ramil,2025,"Itbayat, Batanes",130.5,0
+Ramil,2025,"Infanta, Quezon",119.6,0
+Ramil,2025,"Baler, Aurora",0,18
+Ramil,2025,"Clark International Airport, Pampanga",0,13
+Ramil,2025,"Baguio City",0,13
+Ramil,2025,"Casiguran, Aurora",0,12
+Ramil,2025,"Aparri, Cagayan",0,11
+Ramil,2025,"Muñoz City, Nueva Ecija",0,10
+Tino,2025,"Maasin City, Southern Leyte",235.2,27
+Tino,2025,"Lapu-Lapu City",183.0,25
+Tino,2025,"Juban, Sorsogon",177.0,0
+Tino,2025,"Surigao City, Surigao del Norte",162.4,24
+Tino,2025,"Cuyo, Palawan",159.0,0
+Tino,2025,"Guiuan, Eastern Samar",0,32
+Tino,2025,"Tacloban City, Leyte",0,26
+Uwan,2025,"Doña Remedios Trinidad, Bulacan (near Talaguio River)",273.0,0
+Uwan,2025,"Baguio City",266.0,0
+Uwan,2025,"Doña Remedios Trinidad, Bulacan (near Matulid River)",253.0,0
+Uwan,2025,"La Trinidad, Benguet",231.0,0
+Uwan,2025,"Virac, Catanduanes",226.7,48
+Uwan,2025,"Daet, Camarines Norte",0,47
+Uwan,2025,"Casiguran, Aurora",0,46
+Uwan,2025,"Baler, Aurora",0,42
+Uwan,2025,"Bayombong, Nueva Vizcaya",0,39
+Verbena,2025,"Casiguran, Aurora",160.5,0
+Verbena,2025,"Lapu-Lapu City",114.6,17
+Verbena,2025,"Itbayat, Batanes",106.6,0
+Verbena,2025,"Infanta, Quezon",104.6,0
+Verbena,2025,"Cuyo, Palawan",103.5,0
+Verbena,2025,"Surigao City, Surigao del Norte",0,18
+Verbena,2025,"Borongan City, Eastern Samar",0,16
+Verbena,2025,"Roxas City, Capiz",0,14
+Verbena,2025,"Romblon, Romblon",0,14
+Verbena,2025,"Panglao, Bohol",0,12

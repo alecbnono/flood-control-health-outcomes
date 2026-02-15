@@ -1,0 +1,38 @@
+Typhoon,Year,Location,Max 24-hour Rainfall (mm),Peak Gust (10 mins sustained) (m/s)
+Falcon,2019,"Laoag City, Ilocos Norte",181.8,0
+Falcon,2019,"Juban, Sorsogon",145.2,0
+Falcon,2019,"Coron, Palawan",133.4,0
+Falcon,2019,"Basco, Batanes",0,25
+Falcon,2019,"Aparri, Cagayan",0,20
+Falcon,2019,"Baler, Aurora",0,18
+Hanna,2019,"Coron, Palawan",221.2,0
+Hanna,2019,"Subic Bay International Airport, Morong, Bataan",153.5,0
+Hanna,2019,"Iba, Zambales",139.0,0
+Ineng,2019,"Laoag City, Ilocos Norte",471.8,0
+Ineng,2019,"Sinait, Ilocos Sur",188.4,0
+Ineng,2019,"Aparri, Cagayan",146.4,13
+Ineng,2019,"Basco, Batanes",0,30
+Ineng,2019,"Baler, Aurora",0,22
+Kabayan,2019,"Sinait, Ilocos Sur",156.8,0
+Kabayan,2019,"Ambulong, Tanauan City, Batangas",96.4,0
+Kabayan,2019,"Port Area, Manila",89.0,14
+Kabayan,2019,"Basco, Batanes",0,16
+Kabayan,2019,"Itbayat, Batanes",0,12
+Kabayan,2019,"Aparri, Cagayan",0,12
+Nimfa,2019,"Subic Bay International Airport, Morong, Bataan",231.5,0
+Nimfa,2019,"Morong, Bataan",231.5,0
+Nimfa,2019,"Tanay, Rizal",111.4,0
+Nimfa,2019,"Iba, Zambales",107.7,0
+Quiel,2019,"Aparri, Cagayan",366.6,0
+Quiel,2019,"Sinait, Ilocos Sur",83.9,0
+Quiel,2019,"Subic Bay International Airport, Morong, Bataan",83.5,0
+Tisoy,2019,"Catarman, Northern Samar",605.5,38
+Tisoy,2019,"Juban, Sorsogon",298.8,0
+Tisoy,2019,"Virac, Catanduanes",247.4,0
+Tisoy,2019,"Legazpi City, Albay",0,40
+Tisoy,2019,"Romblon, Romblon",0,40
+Ursula,2019,"San Jose, Occidental Mindoro",217.2,42
+Ursula,2019,"Roxas City, Capiz",155.0,43
+Ursula,2019,"Tacloban City, Leyte",143.2,43
+Ursula,2019,"Guiuan, Eastern Samar",0,50
+
