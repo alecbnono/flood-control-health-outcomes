@@ -1,12 +1,12 @@
 Cyclone Name,Region,Province,Deaths,Injuries,Affected,Houses destroyed,Houses damaged,Total Houses,Damage to Infrastructure (PhP),Damage to Agriculture + Fisheries (PhP),Year,Category
 Amang,Region 5,,0,0,95337,0,0,0,0,12341646.77,2023,Tropical Depression
 Amang,CALABARZON,,0,0,1088,0,0,0,0,0,2023,Tropical Depression
-Betty,Region 1,,0,0,4917,1,10,11,0,108000,2023,Tropical Cyclone
-Betty,Region 2,,0,0,24355,0,0,0,0,0,2023,Tropical Cyclone
-Betty,Region 3,,0,0,11361,2,2,4,0,0,2023,Tropical Cyclone
-Betty,MIMAROPA,,0,0,2200,0,0,0,0,0,2023,Tropical Cyclone
-Betty,Region 6,,0,0,39455,7,36,43,0,0,2023,Tropical Cyclone
-Betty,CAR,,0,1,22017,1,43,44,0,25000,2023,Tropical Cyclone
+Betty,Region 1,,0,0,4917,1,10,11,0,108000,2023,Super Typhoon
+Betty,Region 2,,0,0,24355,0,0,0,0,0,2023,Super Typhoon
+Betty,Region 3,,0,0,11361,2,2,4,0,0,2023,Super Typhoon
+Betty,MIMAROPA,,0,0,2200,0,0,0,0,0,2023,Super Typhoon
+Betty,Region 6,,0,0,39455,7,36,43,0,0,2023,Super Typhoon
+Betty,CAR,,0,1,22017,1,43,44,0,25000,2023,Super Typhoon
 Dodong,Region 1,,0,0,27485,0,0,0,0,0,2023,Tropical Storm
 Dodong,Region 2,,0,0,157691,45,108,153,0,199000000.00,2023,Tropical Storm
 Dodong,Region 3,,0,0,220078,0,0,0,100000000.00,0,2023,Tropical Storm
