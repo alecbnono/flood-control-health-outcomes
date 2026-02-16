@@ -1,0 +1,499 @@
+Typhoon,Year,Location,Max 24-hour Rainfall (mm),Peak Gust (10 mins sustained) (m/s),Date,Province,Region
+Bising,2021,"Catarman, Northern Samar",265.5,0.0,2021-04-16,Northern Samar,Region VIII
+Bising,2021,"Virac, Catanduanes",252.2,30.0,2021-04-16,Catanduanes,Region V
+Bising,2021,"Pili, Camarines Sur",141.6,0.0,2021-04-16,Camarines Sur,Region V
+Bising,2021,"Catbalogan City, Samar",124.2,0.0,2021-04-16,Samar,Region VIII
+Bising,2021,"Guiuan, Eastern Samar",102.9,26.0,2021-04-16,Eastern Samar,Region VIII
+Bising,2021,"Tacloban City, Leyte",0.0,22.0,2021-04-16,Leyte,Region VIII
+Bising,2021,"Basco, Batanes",0.0,21.0,2021-04-16,Batanes,Region II
+Bising,2021,"Borongan City, Eastern Samar",0.0,20.0,2021-04-16,Eastern Samar,Region VIII
+Dante,2021,"Maasin City, Southern Leyte",395.4,0.0,2021-05-30,Southern Leyte,Region VIII
+Dante,2021,"San Jose, Occidental Mindoro",137.3,19.0,2021-05-30,Occidental Mindoro,Region IV-B
+Dante,2021,"El Salvador City, Misamis Oriental",121.8,0.0,2021-05-30,Misamis Oriental,Region X
+Dante,2021,"Hinatuan, Surigao Del Sur",104.0,0.0,2021-05-30,Surigao del Sur,Region XIII
+Dante,2021,"Abucay, Bataan",103.0,20.0,2021-05-30,Bataan,Region III
+Dante,2021,"Romblon City, Romblon",0.0,22.0,2021-05-30,Romblon,Region IV-B
+Dante,2021,"Guiuan, Eastern Samar",0.0,20.0,2021-05-30,Eastern Samar,Region VIII
+Dante,2021,"Basco, Batanes",0.0,17.0,2021-05-30,Batanes,Region II
+Dante,2021,"Catarman, Northern Samar",0.0,17.0,2021-05-30,Northern Samar,Region VIII
+Dante,2021,"Calapan City, Oriental Mindoro",0.0,16.0,2021-05-30,Oriental Mindoro,Region IV-B
+Dante,2021,"Itbayat, Batanes",0.0,16.0,2021-05-30,Batanes,Region II
+Dante,2021,"Mactan-Cebu International Airport, Lapu-Lapu City",0.0,16.0,2021-05-30,Cebu,Region VII
+Dante,2021,"Sangley Pt., Cavite City, Cavite",0.0,16.0,2021-05-30,Cavite,Region IV-A
+Emong,2021,"Iba, Zambales",166.8,0.0,2021-07-02,Zambales,Region III
+Emong,2021,"Alabat, Quezon",154.2,0.0,2021-07-02,Quezon,Region IV-A
+Emong,2021,"Baler, Aurora",122.0,10.0,2021-07-02,Aurora,Region III
+Emong,2021,"Virac, Catanduanes",85.8,0.0,2021-07-02,Catanduanes,Region V
+Emong,2021,"Tanay, Rizal",81.3,0.0,2021-07-02,Rizal,Region IV-A
+Emong,2021,"Basco, Batanes",0.0,20.0,2021-07-02,Batanes,Region II
+Emong,2021,Baguio City,0.0,10.0,2021-07-02,Benguet,CAR
+Emong,2021,"Calayan, Cagayan",0.0,10.0,2021-07-02,Cagayan,Region II
+Fabian,2021,"Mt. Cabuyao, Tuba, Benguet",246.8,0.0,2021-07-16,Benguet,CAR
+Fabian,2021,"Abucay, Bataan",218.1,0.0,2021-07-16,Bataan,Region III
+Fabian,2021,Baguio City,214.6,20.0,2021-07-16,Benguet,CAR
+Fabian,2021,"Iba, Zambales",213.6,0.0,2021-07-16,Zambales,Region III
+Fabian,2021,"Port Area, Manila",206.9,0.0,2021-07-16,Metro Manila,NCR
+Fabian,2021,"Baler, Aurora",0.0,26.0,2021-07-16,Aurora,Region III
+Fabian,2021,"Basco, Batanes",0.0,20.0,2021-07-16,Batanes,Region II
+Fabian,2021,"Laoag City, Ilocos Norte",0.0,13.0,2021-07-16,Ilocos Norte,Region I
+Fabian,2021,"Aparri, Cagayan",0.0,12.0,2021-07-16,Cagayan,Region II
+Fabian,2021,"Itbayat, Batanes",0.0,12.0,2021-07-16,Batanes,Region II
+Fabian,2021,"Casiguran, Aurora",0.0,10.0,2021-07-16,Aurora,Region III
+Jolina,2021,"Mt. Cabuyao, Tuba, Benguet",187.8,0.0,2021-09-06,Benguet,CAR
+Jolina,2021,"Tayabas City, Quezon",166.8,0.0,2021-09-06,Quezon,Region IV-A
+Jolina,2021,"Catbalogan City, Samar",152.1,22.0,2021-09-06,Samar,Region VIII
+Jolina,2021,"Guiuan, Eastern Samar",150.1,38.0,2021-09-06,Eastern Samar,Region VIII
+Jolina,2021,"Tacloban City, Leyte",141.2,0.0,2021-09-06,Leyte,Region VIII
+Jolina,2021,"Ambulong, Tanauan City, Batangas",0.0,24.0,2021-09-06,Batangas,Region IV-A
+Jolina,2021,"Tanay, Rizal",0.0,23.0,2021-09-06,Rizal,Region IV-A
+Jolina,2021,"Borongan City, Eastern Samar",0.0,20.0,2021-09-06,Eastern Samar,Region VIII
+Jolina,2021,"Masbate City, Masbate",0.0,20.0,2021-09-06,Masbate,Region V
+Kiko,2021,"Itbayat, Batanes",510.0,60.0,2021-09-07,Batanes,Region II
+Kiko,2021,"Basco, Batanes",420.7,86.0,2021-09-07,Batanes,Region II
+Kiko,2021,"Mt. Cabuyao, Tuba, Benguet",187.8,0.0,2021-09-07,Benguet,CAR
+Kiko,2021,"Tayabas City, Quezon",166.8,0.0,2021-09-07,Quezon,Region IV-A
+Kiko,2021,"Iba, Zambales",137.2,0.0,2021-09-07,Zambales,Region III
+Kiko,2021,"Calayan, Cagayan",0.0,30.0,2021-09-07,Cagayan,Region II
+Kiko,2021,"Aparri, Cagayan",0.0,15.0,2021-09-07,Cagayan,Region II
+Kiko,2021,"Baler, Aurora",0.0,13.0,2021-09-07,Aurora,Region III
+Kiko,2021,"Laoag City, Ilocos Norte",0.0,13.0,2021-09-07,Ilocos Norte,Region I
+Maring,2021,Baguio City,625.3,0.0,2021-10-07,Benguet,CAR
+Maring,2021,"Mt. Cabuyao, Tuba, Benguet",500.8,0.0,2021-10-07,Benguet,CAR
+Maring,2021,"Dagupan City, Pangasinan",241.3,22.0,2021-10-07,Pangasinan,Region I
+Maring,2021,"San Jose, Occidental Mindoro",140.8,0.0,2021-10-07,Occidental Mindoro,Region IV-B
+Maring,2021,"Aparri, Cagayan",138.4,24.0,2021-10-07,Cagayan,Region II
+Maring,2021,"Basco, Batanes",0.0,34.0,2021-10-07,Batanes,Region II
+Maring,2021,"Calayan, Cagayan",0.0,28.0,2021-10-07,Cagayan,Region II
+Maring,2021,"Itbayat, Batanes",0.0,25.0,2021-10-07,Batanes,Region II
+Odette,2021,"Surigao City, Surigao del Norte",267.6,58.0,2021-12-14,Surigao del Norte,Region XIII
+Odette,2021,"Dauis, Bohol",230.6,31.0,2021-12-14,Bohol,Region VII
+Odette,2021,"Malaybalay City, Bukidnon",165.6,0.0,2021-12-14,Bukidnon,Region X
+Odette,2021,"Puerto Princesa City, Palawan",156.5,0.0,2021-12-14,Palawan,Region IV-B
+Odette,2021,"Virac, Catanduanes",135.7,0.0,2021-12-14,Catanduanes,Region V
+Odette,2021,"Maasin City, Southern Leyte",0.0,55.0,2021-12-14,Southern Leyte,Region VIII
+Odette,2021,"Mactan-Cebu International Airport, Lapu-Lapu City",0.0,45.0,2021-12-14,Cebu,Region VII
+Odette,2021,"Guiuan, Eastern Samar",0.0,38.0,2021-12-14,Eastern Samar,Region VIII
+Amang,2023,"Pili, Camarines Sur",212.6,0.0,2023-04-11,Camarines Sur,Region V
+Amang,2023,"Legazpi City, Albay",140.0,13.0,2023-04-11,Albay,Region V
+Amang,2023,"PCA Bago-Oshiro, Davao City",102.3,0.0,2023-04-11,Davao del Sur,Region XI
+Amang,2023,"Juban, Sorsogon",0.0,10.0,2023-04-11,Sorsogon,Region V
+Amang,2023,"Daet, Camarines Norte",0.0,10.0,2023-04-11,Camarines Norte,Region V
+Amang,2023,"Guiuan, Eastern Samar",0.0,10.0,2023-04-11,Eastern Samar,Region VIII
+Amang,2023,"Virac, Catanduanes",0.0,8.0,2023-04-11,Catanduanes,Region V
+Betty,2023,"La Trinidad, Benguet",220.5,0.0,2023-05-20,Benguet,CAR
+Betty,2023,"Baguio City, Benguet",184.2,0.0,2023-05-20,Benguet,CAR
+Betty,2023,"Maasin City, Southern Leyte",107.6,0.0,2023-05-20,Southern Leyte,Region VIII
+Betty,2023,"Basco, Batanes",0.0,34.0,2023-05-20,Batanes,Region II
+Betty,2023,"Itbayat, Batanes",0.0,24.0,2023-05-20,Batanes,Region II
+Betty,2023,"Calayan, Cagayan",0.0,22.0,2023-05-20,Cagayan,Region II
+Dodong,2023,"Iba, Zambales",222.9,0.0,2023-07-13,Zambales,Region III
+Dodong,2023,"Abucay, Bataan",132.3,0.0,2023-07-13,Bataan,Region III
+Dodong,2023,"Subic, Zambales",124.5,0.0,2023-07-13,Zambales,Region III
+Dodong,2023,"Basco, Batanes",0.0,18.0,2023-07-13,Batanes,Region II
+Dodong,2023,"Baguio City, Benguet",0.0,16.0,2023-07-13,Benguet,CAR
+Dodong,2023,"Calayan, Cagayan",0.0,13.0,2023-07-13,Cagayan,Region II
+Egay,2023,"Laoag City, Ilocos Norte",414.0,0.0,2023-07-21,Ilocos Norte,Region I
+Egay,2023,"Sinait, Ilocos Sur",391.0,0.0,2023-07-21,Ilocos Sur,Region I
+Egay,2023,"Baguio City, Benguet",347.4,0.0,2023-07-21,Benguet,CAR
+Egay,2023,"Calayan, Cagayan",0.0,52.0,2023-07-21,Cagayan,Region II
+Egay,2023,"Basco, Batanes",0.0,41.0,2023-07-21,Batanes,Region II
+Egay,2023,"Aparri, Cagayan",0.0,35.0,2023-07-21,Cagayan,Region II
+Falcon,2023,"Subic, Zambales",278.5,0.0,2023-07-29,Zambales,Region III
+Falcon,2023,"Iba, Zambales",273.1,0.0,2023-07-29,Zambales,Region III
+Falcon,2023,"Abucay, Bataan",203.4,0.0,2023-07-29,Bataan,Region III
+Goring,2023,"Laoag City, Ilocos Norte",254.2,0.0,2023-08-24,Ilocos Norte,Region I
+Goring,2023,"Coron, Palawan",223.7,0.0,2023-08-24,Palawan,Region IV-B
+Goring,2023,"Sinait, Ilocos Sur",215.6,0.0,2023-08-24,Ilocos Sur,Region I
+Goring,2023,"Basco, Batanes",0.0,45.0,2023-08-24,Batanes,Region II
+Goring,2023,"Calayan, Cagayan",0.0,34.0,2023-08-24,Cagayan,Region II
+Goring,2023,"Itbayat, Batanes",0.0,26.0,2023-08-24,Batanes,Region II
+Hanna,2023,"Science Garden, Quezon City",152.5,0.0,2023-08-29,Metro Manila,NCR
+Hanna,2023,"Abucay, Bataan",139.0,0.0,2023-08-29,Bataan,Region III
+Hanna,2023,"Dagupan City, Pangasinan",130.7,0.0,2023-08-29,Pangasinan,Region I
+Hanna,2023,"Basco, Batanes",0.0,22.0,2023-08-29,Batanes,Region II
+Hanna,2023,"Calayan, Cagayan",0.0,17.0,2023-08-29,Cagayan,Region II
+Hanna,2023,"Itbayat, Batanes",0.0,15.0,2023-08-29,Batanes,Region II
+Jenny,2023,"Itbayat, Batanes",273.0,24.0,2023-09-29,Batanes,Region II
+Jenny,2023,"Subic Bay International Airport, Subic Bay",150.2,0.0,2023-09-29,Zambales,Region III
+Jenny,2023,"Basco, Batanes",134.0,30.0,2023-09-29,Batanes,Region II
+Jenny,2023,"Calayan, Cagayan",0.0,24.0,2023-09-29,Cagayan,Region II
+Kabayan,2023,"Surigao City, Surigao Del Norte",184.0,21.0,2023-12-17,Surigao del Norte,Region XIII
+Kabayan,2023,"Maasin City, Southern Leyte",98.8,0.0,2023-12-17,Southern Leyte,Region VIII
+Kabayan,2023,"Casiguran, Aurora",97.0,0.0,2023-12-17,Aurora,Region III
+Kabayan,2023,"Guiuan, Eastern Samar",0.0,21.0,2023-12-17,Eastern Samar,Region VIII
+Kabayan,2023,"Tacloban City, Leyte",0.0,16.0,2023-12-17,Leyte,Region VIII
+Kabayan,2023,"Mactan-Cebu International Airport, Lapu-Lapu City",0.0,15.0,2023-12-17,Cebu,Region VII
+Falcon,2019,"Laoag City, Ilocos Norte",181.8,0.0,2019-07-15,Ilocos Norte,Region I
+Falcon,2019,"Juban, Sorsogon",145.2,0.0,2019-07-15,Sorsogon,Region V
+Falcon,2019,"Coron, Palawan",133.4,0.0,2019-07-15,Palawan,Region IV-B
+Falcon,2019,"Basco, Batanes",0.0,25.0,2019-07-15,Batanes,Region II
+Falcon,2019,"Aparri, Cagayan",0.0,20.0,2019-07-15,Cagayan,Region II
+Falcon,2019,"Baler, Aurora",0.0,18.0,2019-07-15,Aurora,Region III
+Hanna,2019,"Coron, Palawan",221.2,0.0,2019-08-04,Palawan,Region IV-B
+Hanna,2019,"Subic Bay International Airport, Morong, Bataan",153.5,0.0,2019-08-04,Bataan,Region III
+Hanna,2019,"Iba, Zambales",139.0,0.0,2019-08-04,Zambales,Region III
+Ineng,2019,"Laoag City, Ilocos Norte",471.8,0.0,2019-08-21,Ilocos Norte,Region I
+Ineng,2019,"Sinait, Ilocos Sur",188.4,0.0,2019-08-21,Ilocos Sur,Region I
+Ineng,2019,"Aparri, Cagayan",146.4,13.0,2019-08-21,Cagayan,Region II
+Ineng,2019,"Basco, Batanes",0.0,30.0,2019-08-21,Batanes,Region II
+Ineng,2019,"Baler, Aurora",0.0,22.0,2019-08-21,Aurora,Region III
+Kabayan,2019,"Sinait, Ilocos Sur",156.8,0.0,2019-09-01,Ilocos Sur,Region I
+Kabayan,2019,"Ambulong, Tanauan City, Batangas",96.4,0.0,2019-09-01,Batangas,Region IV-A
+Kabayan,2019,"Port Area, Manila",89.0,14.0,2019-09-01,Metro Manila,NCR
+Kabayan,2019,"Basco, Batanes",0.0,16.0,2019-09-01,Batanes,Region II
+Kabayan,2019,"Itbayat, Batanes",0.0,12.0,2019-09-01,Batanes,Region II
+Kabayan,2019,"Aparri, Cagayan",0.0,12.0,2019-09-01,Cagayan,Region II
+Nimfa,2019,"Subic Bay International Airport, Morong, Bataan",231.5,0.0,2019-09-17,Bataan,Region III
+Nimfa,2019,"Morong, Bataan",231.5,0.0,2019-09-17,Bataan,Region III
+Nimfa,2019,"Tanay, Rizal",111.4,0.0,2019-09-17,Rizal,Region IV-A
+Nimfa,2019,"Iba, Zambales",107.7,0.0,2019-09-17,Zambales,Region III
+Quiel,2019,"Aparri, Cagayan",366.6,0.0,2019-11-04,Cagayan,Region II
+Quiel,2019,"Sinait, Ilocos Sur",83.9,0.0,2019-11-04,Ilocos Sur,Region I
+Quiel,2019,"Subic Bay International Airport, Morong, Bataan",83.5,0.0,2019-11-04,Bataan,Region III
+Tisoy,2019,"Catarman, Northern Samar",605.5,38.0,2019-12-02,Northern Samar,Region VIII
+Tisoy,2019,"Juban, Sorsogon",298.8,0.0,2019-12-02,Sorsogon,Region V
+Tisoy,2019,"Virac, Catanduanes",247.4,0.0,2019-12-02,Catanduanes,Region V
+Tisoy,2019,"Legazpi City, Albay",0.0,40.0,2019-12-02,Albay,Region V
+Tisoy,2019,"Romblon, Romblon",0.0,40.0,2019-12-02,Romblon,Region IV-B
+Ursula,2019,"San Jose, Occidental Mindoro",217.2,42.0,2019-12-24,Occidental Mindoro,Region IV-B
+Ursula,2019,"Roxas City, Capiz",155.0,43.0,2019-12-24,Capiz,Region VI
+Ursula,2019,"Tacloban City, Leyte",143.2,43.0,2019-12-24,Leyte,Region VIII
+Ursula,2019,"Guiuan, Eastern Samar",0.0,50.0,2019-12-24,Eastern Samar,Region VIII
+Aghon,2024,"Mulanay, Quezon",229.4,15.0,2024-05-24,Quezon,Region IV-A
+Aghon,2024,"Tayabas, Quezon",226.5,22.0,2024-05-24,Quezon,Region IV-A
+Aghon,2024,"Sinait, Ilocos Sur",176.5,0.0,2024-05-24,Ilocos Sur,Region I
+Aghon,2024,"Alabat, Quezon",152.2,0.0,2024-05-24,Quezon,Region IV-A
+Aghon,2024,"Infanta, Quezon",147.3,14.0,2024-05-24,Quezon,Region IV-A
+Aghon,2024,"Guiuan, Eastern Samar",0.0,20.0,2024-05-24,Eastern Samar,Region VIII
+Aghon,2024,"Baler, Aurora",0.0,16.0,2024-05-24,Aurora,Region III
+Aghon,2024,"Surigao City, Surigao del Sur",0.0,15.0,2024-05-24,Surigao del Sur,Region XIII
+Aghon,2024,"Tacloban City, Leyte",0.0,14.0,2024-05-24,Leyte,Region VIII
+Aghon,2024,"Borongan City, Eastern Samar",0.0,14.0,2024-05-24,Eastern Samar,Region VIII
+Carina,2024,"Calayan, Cagayan",342.8,26.0,2024-07-19,Cagayan,Region II
+Carina,2024,"Science Garden, Quezon City",323.9,0.0,2024-07-19,Metro Manila,NCR
+Carina,2024,Baguio City,294.0,0.0,2024-07-19,Benguet,CAR
+Carina,2024,"Cubi Pt., Subic",282.7,0.0,2024-07-19,Zambales,Region III
+Carina,2024,"Tanay, Rizal",262.0,0.0,2024-07-19,Rizal,Region IV-A
+Carina,2024,"Basco, Batanes",0.0,28.0,2024-07-19,Batanes,Region II
+Carina,2024,"Itbayat, Batanes",0.0,20.0,2024-07-19,Batanes,Region II
+Carina,2024,"Aparri, Cagayan",0.0,15.0,2024-07-19,Cagayan,Region II
+Enteng,2024,"Daet, Camarines Norte",258.9,0.0,2024-09-01,Camarines Norte,Region V
+Enteng,2024,"Iba, Zambales",256.6,0.0,2024-09-01,Zambales,Region III
+Enteng,2024,"Muñoz City, Nueva Ecija",217.8,0.0,2024-09-01,Nueva Ecija,Region III
+Enteng,2024,"Infanta, Quezon",216.0,0.0,2024-09-01,Quezon,Region IV-A
+Enteng,2024,"Alabat, Quezon",210.5,0.0,2024-09-01,Quezon,Region IV-A
+Enteng,2024,"Casiguran, Aurora",0.0,22.0,2024-09-01,Aurora,Region III
+Enteng,2024,"Baler, Aurora",0.0,19.0,2024-09-01,Aurora,Region III
+Enteng,2024,"Ninoy Aquino International Airport, Parañaque City",0.0,18.0,2024-09-01,Metro Manila,NCR
+Enteng,2024,"Virac, Catanduanes",0.0,18.0,2024-09-01,Catanduanes,Region V
+Enteng,2024,"Mulanay, Quezon",0.0,15.0,2024-09-01,Quezon,Region IV-A
+Enteng,2024,"Echague, Isabela",0.0,15.0,2024-09-01,Isabela,Region II
+Enteng,2024,"Tuguegarao City, Cagayan",0.0,14.0,2024-09-01,Cagayan,Region II
+Enteng,2024,"Science Garden, Quezon City",0.0,14.0,2024-09-01,Metro Manila,NCR
+Enteng,2024,"Guiuan, Eastern Samar",0.0,14.0,2024-09-01,Eastern Samar,Region VIII
+Ferdie,2024,"Dumangas, Iloilo",240.0,0.0,2024-09-13,Iloilo,Region VI
+Ferdie,2024,"San Jose, Occidental Mindoro",178.6,0.0,2024-09-13,Occidental Mindoro,Region IV-B
+Ferdie,2024,"La Carlota City, Negros Occidental",158.2,0.0,2024-09-13,Negros Occidental,Region VI
+Ferdie,2024,"Tayabas, Quezon",148.1,0.0,2024-09-13,Quezon,Region IV-A
+Ferdie,2024,"Pili, Camarines Sur",127.2,0.0,2024-09-13,Camarines Sur,Region V
+Gener,2024,"Dumangas, Iloilo",156.0,0.0,2024-09-16,Iloilo,Region VI
+Gener,2024,"La Carlota City, Negros Oriental",134.9,0.0,2024-09-16,Negros Oriental,Region VII
+Gener,2024,"San Jose, Occidental Mindoro",108.0,0.0,2024-09-16,Occidental Mindoro,Region IV-B
+Gener,2024,"Dagupan City, Pangasinan",99.1,12.0,2024-09-16,Pangasinan,Region I
+Gener,2024,"Calayan, Cagayan",89.5,17.0,2024-09-16,Cagayan,Region II
+Gener,2024,"Baler, Aurora",0.0,13.0,2024-09-16,Aurora,Region III
+Gener,2024,"Iba, Zambales",0.0,10.0,2024-09-16,Zambales,Region III
+Gener,2024,"Infanta, Quezon",0.0,8.0,2024-09-16,Quezon,Region IV-A
+Helen,2024,"Dumangas, Iloilo",156.0,0.0,2024-09-17,Iloilo,Region VI
+Helen,2024,"Dagupan City, Pangasinan",99.1,0.0,2024-09-17,Pangasinan,Region I
+Helen,2024,"Coron, Palawan",86.1,0.0,2024-09-17,Palawan,Region IV-B
+Helen,2024,"Abucay, Bataan",84.7,0.0,2024-09-17,Bataan,Region III
+Helen,2024,"Tagum City, Davao del Norte",70.6,0.0,2024-09-17,Davao del Norte,Region XI
+Igme,2024,"Iba, Zambales",174.0,0.0,2024-09-20,Zambales,Region III
+Igme,2024,"Tayabas, Quezon",97.1,0.0,2024-09-20,Quezon,Region IV-A
+Igme,2024,"Abucay, Bataan",78.9,0.0,2024-09-20,Bataan,Region III
+Igme,2024,"Cubi Pt., Zambales",78.5,0.0,2024-09-20,Zambales,Region III
+Igme,2024,"Aparri, Cagayan",78.0,0.0,2024-09-20,Cagayan,Region II
+Julian,2024,"Basco, Batanes",728.0,66.0,2024-09-30,Batanes,Region II
+Julian,2024,"Laoag City, Ilocos Norte",481.6,18.0,2024-09-30,Ilocos Norte,Region I
+Julian,2024,"Calayan, Cagayan",201.5,42.0,2024-09-30,Cagayan,Region II
+Julian,2024,"Batac, Ilocos Norte",193.4,0.0,2024-09-30,Ilocos Norte,Region I
+Julian,2024,"Sinait, Ilocos Sur",162.4,0.0,2024-09-30,Ilocos Sur,Region I
+Julian,2024,"Itbayat, Batanes",0.0,50.0,2024-09-30,Batanes,Region II
+Julian,2024,"Aparri, Cagayan",0.0,16.0,2024-09-30,Cagayan,Region II
+Julian,2024,"Baler, Aurora",0.0,16.0,2024-09-30,Aurora,Region III
+Kristine,2024,"Daet, Camarines Norte",528.5,0.0,2024-10-20,Camarines Norte,Region V
+Kristine,2024,"Legazpi City, Albay",431.0,0.0,2024-10-20,Albay,Region V
+Kristine,2024,"Juban, Sorsogon",406.0,0.0,2024-10-20,Sorsogon,Region V
+Kristine,2024,"Ambulong, Tanauan City, Batangas",391.3,25.0,2024-10-20,Batangas,Region IV-A
+Kristine,2024,"Mulanay, Quezon",384.6,0.0,2024-10-20,Quezon,Region IV-A
+Kristine,2024,"Calayan, Cagayan",0.0,28.0,2024-10-20,Cagayan,Region II
+Kristine,2024,"Itbayat, Batanes",0.0,26.0,2024-10-20,Batanes,Region II
+Kristine,2024,"Cubi Pt., Subic Bay",0.0,26.0,2024-10-20,Zambales,Region III
+Kristine,2024,"Aparri, Cagayan",0.0,25.0,2024-10-20,Cagayan,Region II
+Kristine,2024,"Abucay, Bataan",0.0,24.0,2024-10-20,Bataan,Region III
+Kristine,2024,Baguio City,0.0,22.0,2024-10-20,Benguet,CAR
+Marce,2024,"Calayan, Cagayan",242.6,33.0,2024-11-04,Cagayan,Region II
+Marce,2024,"Aparri, Cagayan",131.0,42.0,2024-11-04,Cagayan,Region II
+Marce,2024,"Laoag City, Ilocos Norte",85.9,30.0,2024-11-04,Ilocos Norte,Region I
+Marce,2024,"Sinait, Ilocos Sur",84.4,0.0,2024-11-04,Ilocos Sur,Region I
+Marce,2024,"Tuguegarao City, Cagayan",81.5,16.0,2024-11-04,Cagayan,Region II
+Marce,2024,"Itbayat, Batanes",0.0,26.0,2024-11-04,Batanes,Region II
+Ofel,2024,"Virac, Catanduanes",225.8,0.0,2024-11-12,Catanduanes,Region V
+Ofel,2024,"Basco, Batanes",149.5,0.0,2024-11-12,Batanes,Region II
+Ofel,2024,"Calayan, Cagayan",142.7,38.0,2024-11-12,Cagayan,Region II
+Ofel,2024,"Daet, Camarines Norte",140.0,0.0,2024-11-12,Camarines Norte,Region V
+Ofel,2024,"Echague, Isabela",121.3,0.0,2024-11-12,Isabela,Region II
+Ofel,2024,"Aparri, Cagayan",0.0,25.0,2024-11-12,Cagayan,Region II
+Ofel,2024,"Tuguegarao City, Cagayan",0.0,19.0,2024-11-12,Cagayan,Region II
+Ofel,2024,"Itbayat, Batanes",0.0,18.0,2024-11-12,Batanes,Region II
+Ofel,2024,"Baler, Aurora",0.0,15.0,2024-11-12,Aurora,Region III
+Pepito,2024,"Casiguran, Aurora",255.0,40.0,2024-11-14,Aurora,Region III
+Pepito,2024,"Virac, Catanduanes",225.8,39.0,2024-11-14,Catanduanes,Region V
+Pepito,2024,"La Trinidad, Benguet",200.5,0.0,2024-11-14,Benguet,CAR
+Pepito,2024,Baguio City,192.0,0.0,2024-11-14,Benguet,CAR
+Pepito,2024,"Muñoz City, Nueva Ecija",174.4,0.0,2024-11-14,Nueva Ecija,Region III
+Pepito,2024,"Baler, Aurora",0.0,58.0,2024-11-14,Aurora,Region III
+Pepito,2024,"Bayombong, Nueva Vizcaya",0.0,26.0,2024-11-14,Nueva Vizcaya,Region II
+Pepito,2024,"Legazpi City, Albay",0.0,25.0,2024-11-14,Albay,Region V
+Romina,2024,"Catarman, Northern Samar",327.2,0.0,2024-11-20,Northern Samar,Region VIII
+Romina,2024,"Puerto Princesa City, Palawan",220.6,0.0,2024-11-20,Palawan,Region IV-B
+Romina,2024,"Borongan City, Eastern Samar",136.8,0.0,2024-11-20,Eastern Samar,Region VIII
+Romina,2024,"Catbalogan City, Samar",103.6,0.0,2024-11-20,Samar,Region VIII
+Romina,2024,"Juban, Sorsogon",87.0,0.0,2024-11-20,Sorsogon,Region V
+Crising,2025,"Mt. Matulid, Norzagaray, Bulacan",225.0,0.0,2025-07-16,Bulacan,Region III
+Crising,2025,"Bacnotan, La Union",214.6,0.0,2025-07-16,La Union,Region I
+Crising,2025,"Sinait, Ilocos Sur",202.6,0.0,2025-07-16,Ilocos Sur,Region I
+Crising,2025,"Abucay, Bataan",200.8,0.0,2025-07-16,Bataan,Region III
+Crising,2025,"Angat Dam, Norzagaray, Bulacan",197.0,0.0,2025-07-16,Bulacan,Region III
+Crising,2025,"Calayan, Cagayan",0.0,28.0,2025-07-16,Cagayan,Region II
+Crising,2025,"Itbayat, Batanes",0.0,20.0,2025-07-16,Batanes,Region II
+Crising,2025,"Laoag, Ilocos Norte",0.0,17.0,2025-07-16,Ilocos Norte,Region I
+Crising,2025,"Baler, Aurora",0.0,15.0,2025-07-16,Aurora,Region III
+Crising,2025,"Aparri, Cagayan",0.0,14.0,2025-07-16,Cagayan,Region II
+Emong,2025,Baguio City,302.0,25.0,2025-07-23,Benguet,CAR
+Emong,2025,"Cubi Point, Subic Bay",280.1,20.0,2025-07-23,Zambales,Region III
+Emong,2025,"Bacnotan, La Union",275.9,22.0,2025-07-23,La Union,Region I
+Emong,2025,"Abucay, Bataan",234.3,0.0,2025-07-23,Bataan,Region III
+Emong,2025,"Iba, Zambales",206.4,21.0,2025-07-23,Zambales,Region III
+Emong,2025,"Calayan, Cagayan",0.0,18.0,2025-07-23,Cagayan,Region II
+Isang,2025,"Iba, Zambales",173.2,10.0,2025-08-22,Zambales,Region III
+Isang,2025,"Juban, Sorsogon",152.6,0.0,2025-08-22,Sorsogon,Region V
+Isang,2025,"La Carlota City, Negros Occidental",127.0,0.0,2025-08-22,Negros Occidental,Region VI
+Isang,2025,"San Jose, Occidental Mindoro",77.7,0.0,2025-08-22,Occidental Mindoro,Region IV-B
+Isang,2025,"Cubi Point, Subic Bay",72.0,0.0,2025-08-22,Zambales,Region III
+Isang,2025,"Casiguran, Aurora",0.0,16.0,2025-08-22,Aurora,Region III
+Isang,2025,Baguio City,0.0,15.0,2025-08-22,Benguet,CAR
+Isang,2025,"Baler, Aurora",0.0,12.0,2025-08-22,Aurora,Region III
+Isang,2025,"Muñoz City, Nueva Ecija",0.0,5.0,2025-08-22,Nueva Ecija,Region III
+Mirasol,2025,"Casiguran, Aurora",208.0,26.0,2025-09-25,Aurora,Region III
+Mirasol,2025,"La Trinidad, Benguet",96.5,0.0,2025-09-25,Benguet,CAR
+Mirasol,2025,"Baler, Aurora",93.4,10.0,2025-09-25,Aurora,Region III
+Mirasol,2025,"Echague, Isabela",78.8,0.0,2025-09-25,Isabela,Region II
+Mirasol,2025,"Tanay, Rizal",75.6,0.0,2025-09-25,Rizal,Region IV-A
+Mirasol,2025,"Basco, Batanes",0.0,15.0,2025-09-25,Batanes,Region II
+Mirasol,2025,"Calayan, Cagayan",0.0,15.0,2025-09-25,Cagayan,Region II
+Mirasol,2025,"Infanta, Quezon",0.0,8.0,2025-09-25,Quezon,Region IV-A
+Nando,2025,"La Trinidad, Benguet",370.9,0.0,2025-10-05,Benguet,CAR
+Nando,2025,Baguio City,327.0,0.0,2025-10-05,Benguet,CAR
+Nando,2025,"Sinait, Ilocos Sur",267.8,19.0,2025-10-05,Ilocos Sur,Region I
+Nando,2025,"Batac, Ilocos Norte",210.4,0.0,2025-10-05,Ilocos Norte,Region I
+Nando,2025,"Laoag City, Ilocos Norte",178.9,30.0,2025-10-05,Ilocos Norte,Region I
+Nando,2025,"Calayan, Cagayan",0.0,80.0,2025-10-05,Cagayan,Region II
+Nando,2025,"Itbayat, Batanes",0.0,31.0,2025-10-05,Batanes,Region II
+Nando,2025,"Aparri, Cagayan",0.0,30.0,2025-10-05,Cagayan,Region II
+Nando,2025,"Tuguegarao City, Cagayan",0.0,14.0,2025-10-05,Cagayan,Region II
+Nando,2025,"Bayombong, Nueva Vizcaya",0.0,14.0,2025-10-05,Nueva Vizcaya,Region II
+Opong,2025,"Baybay City, Leyte",261.1,0.0,2025-10-15,Leyte,Region VIII
+Opong,2025,"Catbalogan City, Samar",250.8,0.0,2025-10-15,Samar,Region VIII
+Opong,2025,"Maasin City, Southern Leyte",213.1,0.0,2025-10-15,Southern Leyte,Region VIII
+Opong,2025,"Coron, Palawan",135.6,0.0,2025-10-15,Palawan,Region IV-B
+Opong,2025,"Roxas City, Capiz",132.0,18.0,2025-10-15,Capiz,Region VI
+Opong,2025,"Romblon, Romblon",0.0,41.0,2025-10-15,Romblon,Region IV-B
+Opong,2025,"Masbate City, Masbate",0.0,34.0,2025-10-15,Masbate,Region V
+Opong,2025,"Guiuan, Eastern Samar",0.0,21.0,2025-10-15,Eastern Samar,Region VIII
+Opong,2025,"Tanay, Rizal",0.0,20.0,2025-10-15,Rizal,Region IV-A
+Paolo,2025,"Iba, Zambales",277.5,16.0,2025-10-25,Zambales,Region III
+Paolo,2025,"Cubi Pt., Subic Bay",174.5,17.0,2025-10-25,Zambales,Region III
+Paolo,2025,Baguio City,134.4,20.0,2025-10-25,Benguet,CAR
+Paolo,2025,"Abucay, Bataan",133.7,0.0,2025-10-25,Bataan,Region III
+Paolo,2025,"Casiguran, Aurora",110.0,26.0,2025-10-25,Aurora,Region III
+Paolo,2025,"Echague, Isabela",0.0,20.5,2025-10-25,Isabela,Region II
+Paolo,2025,"Baler, Aurora",0.0,20.0,2025-10-25,Aurora,Region III
+Ramil,2025,"Guiuan, Eastern Samar",400.7,0.0,2025-11-15,Eastern Samar,Region VIII
+Ramil,2025,"Roxas City, Capiz",365.5,0.0,2025-11-15,Capiz,Region VI
+Ramil,2025,"Iba, Zambales",149.3,0.0,2025-11-15,Zambales,Region III
+Ramil,2025,"Itbayat, Batanes",130.5,0.0,2025-11-15,Batanes,Region II
+Ramil,2025,"Infanta, Quezon",119.6,0.0,2025-11-15,Quezon,Region IV-A
+Ramil,2025,"Baler, Aurora",0.0,18.0,2025-11-15,Aurora,Region III
+Ramil,2025,"Clark International Airport, Pampanga",0.0,13.0,2025-11-15,Pampanga,Region III
+Ramil,2025,Baguio City,0.0,13.0,2025-11-15,Benguet,CAR
+Ramil,2025,"Casiguran, Aurora",0.0,12.0,2025-11-15,Aurora,Region III
+Ramil,2025,"Aparri, Cagayan",0.0,11.0,2025-11-15,Cagayan,Region II
+Ramil,2025,"Muñoz City, Nueva Ecija",0.0,10.0,2025-11-15,Nueva Ecija,Region III
+Tino,2025,"Maasin City, Southern Leyte",235.2,27.0,2025-11-25,Southern Leyte,Region VIII
+Tino,2025,Lapu-Lapu City,183.0,25.0,2025-11-25,Cebu,Region VII
+Tino,2025,"Juban, Sorsogon",177.0,0.0,2025-11-25,Sorsogon,Region V
+Tino,2025,"Surigao City, Surigao del Norte",162.4,24.0,2025-11-25,Surigao del Norte,Region XIII
+Tino,2025,"Cuyo, Palawan",159.0,0.0,2025-11-25,Palawan,Region IV-B
+Tino,2025,"Guiuan, Eastern Samar",0.0,32.0,2025-11-25,Eastern Samar,Region VIII
+Tino,2025,"Tacloban City, Leyte",0.0,26.0,2025-11-25,Leyte,Region VIII
+Uwan,2025,"Doña Remedios Trinidad, Bulacan (near Talaguio River)",273.0,0.0,2025-12-05,Bulacan,Region III
+Uwan,2025,Baguio City,266.0,0.0,2025-12-05,Benguet,CAR
+Uwan,2025,"Doña Remedios Trinidad, Bulacan (near Matulid River)",253.0,0.0,2025-12-05,Bulacan,Region III
+Uwan,2025,"La Trinidad, Benguet",231.0,0.0,2025-12-05,Benguet,CAR
+Uwan,2025,"Virac, Catanduanes",226.7,48.0,2025-12-05,Catanduanes,Region V
+Uwan,2025,"Daet, Camarines Norte",0.0,47.0,2025-12-05,Camarines Norte,Region V
+Uwan,2025,"Casiguran, Aurora",0.0,46.0,2025-12-05,Aurora,Region III
+Uwan,2025,"Baler, Aurora",0.0,42.0,2025-12-05,Aurora,Region III
+Uwan,2025,"Bayombong, Nueva Vizcaya",0.0,39.0,2025-12-05,Nueva Vizcaya,Region II
+Verbena,2025,"Casiguran, Aurora",160.5,0.0,2025-12-10,Aurora,Region III
+Verbena,2025,Lapu-Lapu City,114.6,17.0,2025-12-10,Cebu,Region VII
+Verbena,2025,"Itbayat, Batanes",106.6,0.0,2025-12-10,Batanes,Region II
+Verbena,2025,"Infanta, Quezon",104.6,0.0,2025-12-10,Quezon,Region IV-A
+Verbena,2025,"Cuyo, Palawan",103.5,0.0,2025-12-10,Palawan,Region IV-B
+Verbena,2025,"Surigao City, Surigao del Norte",0.0,18.0,2025-12-10,Surigao del Norte,Region XIII
+Verbena,2025,"Borongan City, Eastern Samar",0.0,16.0,2025-12-10,Eastern Samar,Region VIII
+Verbena,2025,"Roxas City, Capiz",0.0,14.0,2025-12-10,Capiz,Region VI
+Verbena,2025,"Romblon, Romblon",0.0,14.0,2025-12-10,Romblon,Region IV-B
+Verbena,2025,"Panglao, Bohol",0.0,12.0,2025-12-10,Bohol,Region VII
+Agaton,2022,"Baybay City, Leyte",536.2,0.0,2022-04-09,Leyte,Region VIII
+Agaton,2022,"Mambusao, Capiz",338.0,0.0,2022-04-09,Capiz,Region VI
+Agaton,2022,"Guiuan, Eastern Samar",207.8,30.0,2022-04-09,Eastern Samar,Region VIII
+Agaton,2022,"Roxas City, Capiz",172.0,0.0,2022-04-09,Capiz,Region VI
+Agaton,2022,"Borongan City, Eastern Samar",163.0,15.0,2022-04-09,Eastern Samar,Region VIII
+Agaton,2022,"Surigao City, Surigao del Norte",0.0,21.0,2022-04-09,Surigao del Norte,Region XIII
+Agaton,2022,"Maasin City, Southern Leyte",0.0,18.0,2022-04-09,Southern Leyte,Region VIII
+Agaton,2022,"Tacloban City, Leyte",0.0,15.0,2022-04-09,Leyte,Region VIII
+Florita,2022,"Batac City, Ilocos Norte",201.8,0.0,2022-08-21,Ilocos Norte,Region I
+Florita,2022,Baguio City,169.8,0.0,2022-08-21,Benguet,CAR
+Florita,2022,"Laoag City, Ilocos Norte",162.5,0.0,2022-08-21,Ilocos Norte,Region I
+Florita,2022,"Sinait, Ilocos Sur",147.4,0.0,2022-08-21,Ilocos Sur,Region I
+Florita,2022,"Tuguegarao City, Cagayan",146.0,18.0,2022-08-21,Cagayan,Region II
+Florita,2022,"Basco, Batanes",0.0,27.0,2022-08-21,Batanes,Region II
+Florita,2022,"Calayan, Cagayan",0.0,20.0,2022-08-21,Cagayan,Region II
+Florita,2022,"Aparri, Cagayan",0.0,20.0,2022-08-21,Cagayan,Region II
+Florita,2022,"Baler, Aurora",0.0,20.0,2022-08-21,Aurora,Region III
+Florita,2022,"Itbayat, Batanes",0.0,18.0,2022-08-21,Batanes,Region II
+Henry,2022,"Sinait, Ilocos Sur",205.2,0.0,2022-08-31,Ilocos Sur,Region I
+Henry,2022,"Iba, Zambales",181.2,0.0,2022-08-31,Zambales,Region III
+Henry,2022,"Cubi Pt., Subic Bay",141.8,0.0,2022-08-31,Zambales,Region III
+Henry,2022,Baguio City,120.0,0.0,2022-08-31,Benguet,CAR
+Henry,2022,"La Trinidad, Benguet",114.0,0.0,2022-08-31,Benguet,CAR
+Henry,2022,"Basco, Batanes",0.0,28.0,2022-08-31,Batanes,Region II
+Henry,2022,"Calayan, Cagayan",0.0,22.0,2022-08-31,Cagayan,Region II
+Henry,2022,"Itbayat, Batanes",0.0,16.0,2022-08-31,Batanes,Region II
+Karding,2022,"Cubi Pt., Subic Bay",255.8,21.0,2022-09-22,Zambales,Region III
+Karding,2022,"Tanay, Rizal",179.3,21.0,2022-09-22,Rizal,Region IV-A
+Karding,2022,"Iba, Zambales",136.2,23.0,2022-09-22,Zambales,Region III
+Karding,2022,"Clark International Airport, Pampanga",125.2,23.0,2022-09-22,Pampanga,Region III
+Karding,2022,"Ambulong, Tanauan City, Batangas",123.2,0.0,2022-09-22,Batangas,Region IV-A
+Karding,2022,"Baler, Aurora",0.0,25.0,2022-09-22,Aurora,Region III
+Karding,2022,"Ninoy Aquino International Airport, Pasay City",0.0,21.0,2022-09-22,Metro Manila,NCR
+Karding,2022,"Port Area, Manila",0.0,21.0,2022-09-22,Metro Manila,NCR
+Neneng,2022,"Aparri, Cagayan",323.8,18.0,2022-10-13,Cagayan,Region II
+Neneng,2022,"Calayan, Cagayan",228.8,32.0,2022-10-13,Cagayan,Region II
+Neneng,2022,"Sinait, Ilocos Sur",174.6,0.0,2022-10-13,Ilocos Sur,Region I
+Neneng,2022,"Itbayat, Batanes",143.9,21.0,2022-10-13,Batanes,Region II
+Neneng,2022,Baguio City,124.6,0.0,2022-10-13,Benguet,CAR
+Neneng,2022,"Basco, Batanes",0.0,40.0,2022-10-13,Batanes,Region II
+Neneng,2022,"Laoag City, Ilocos Norte",0.0,19.0,2022-10-13,Ilocos Norte,Region I
+Paeng,2022,"Indang, Cavite",346.6,0.0,2022-10-26,Cavite,Region IV-A
+Paeng,2022,"Baybay City, Leyte",271.1,0.0,2022-10-26,Leyte,Region VIII
+Paeng,2022,"Tayabas City, Quezon",257.7,0.0,2022-10-26,Quezon,Region IV-A
+Paeng,2022,"Los Baños, Laguna",253.0,0.0,2022-10-26,Laguna,Region IV-A
+Paeng,2022,"Roxas City, Capiz",241.0,0.0,2022-10-26,Capiz,Region VI
+Paeng,2022,"Clark International Airport, Pampanga",0.0,25.0,2022-10-26,Pampanga,Region III
+Paeng,2022,"Ambulong, Tanauan City, Batangas",0.0,24.0,2022-10-26,Batangas,Region IV-A
+Paeng,2022,"Tanay, Rizal",0.0,23.0,2022-10-26,Rizal,Region IV-A
+Paeng,2022,"Daet, Camarines Norte",0.0,23.0,2022-10-26,Camarines Norte,Region V
+Paeng,2022,"Sangley Pt., Cavite City, Cavite",0.0,22.0,2022-10-26,Cavite,Region IV-A
+Ambo,2020,"Catarman (Synoptic), Northern Samar",306.0,35.0,2020-05-11,Northern Samar,Region VIII
+Ambo,2020,"Casiguran, Aurora",282.7,0.0,2020-05-11,Aurora,Region III
+Ambo,2020,"Juban, Sorsogon",260.8,22.0,2020-05-11,Sorsogon,Region V
+Ambo,2020,"Alabat, Quezon",255.6,0.0,2020-05-11,Quezon,Region IV-A
+Ambo,2020,"Catarman (Agromet), Northern Samar",125.6,0.0,2020-05-11,Northern Samar,Region VIII
+Ambo,2020,"Infanta, Quezon",0.0,26.0,2020-05-11,Quezon,Region IV-A
+Ambo,2020,"Masbate City, Masbate",0.0,21.0,2020-05-11,Masbate,Region V
+Ambo,2020,"Tayabas, Quezon",0.0,20.0,2020-05-11,Quezon,Region IV-A
+Ambo,2020,"Sangley Pt., Cavite City, Cavite",0.0,20.0,2020-05-11,Cavite,Region IV-A
+Carina,2020,"Batac, Ilocos Norte",186.8,0.0,2020-07-11,Ilocos Norte,Region I
+Carina,2020,"Laoag City, Ilocos Norte",183.8,10.0,2020-07-11,Ilocos Norte,Region I
+Carina,2020,"Aparri, Cagayan",145.4,10.0,2020-07-11,Cagayan,Region II
+Carina,2020,"PCA Bago-Oshiro, Davao City",95.8,0.0,2020-07-11,Davao del Sur,Region XI
+Carina,2020,"Sangley Pt., Cavite City, Cavite",88.4,0.0,2020-07-11,Cavite,Region IV-A
+Carina,2020,"Baler, Aurora",0.0,18.0,2020-07-11,Aurora,Region III
+Carina,2020,"Itbayat, Batanes",0.0,14.0,2020-07-11,Batanes,Region II
+Carina,2020,"Iba, Zambales",0.0,13.0,2020-07-11,Zambales,Region III
+Carina,2020,"Subic Bay International Airport, Morong, Bataan",0.0,12.0,2020-07-11,Bataan,Region III
+Enteng,2020,"Subic Bay International Airport, Morong, Bataan",173.0,0.0,2020-08-09,Bataan,Region III
+Enteng,2020,"Cuyo, Palawan",115.4,0.0,2020-08-09,Palawan,Region IV-B
+Enteng,2020,"San Jose, Occidental Mindoro",100.7,0.0,2020-08-09,Occidental Mindoro,Region IV-B
+Enteng,2020,"Science Garden, Quezon City",89.2,0.0,2020-08-09,Metro Manila,NCR
+Enteng,2020,"Malaybalay, Bukidnon",85.4,0.0,2020-08-09,Bukidnon,Region X
+Ferdie,2020,"Subic Bay International Airport, Morong, Bataan",173.0,0.0,2020-08-09,Bataan,Region III
+Ferdie,2020,"Clark International Airport, Mabalacat, Pampanga",70.4,0.0,2020-08-09,Pampanga,Region III
+Ferdie,2020,"Iba, Zambales",65.0,0.0,2020-08-09,Zambales,Region III
+Ferdie,2020,"Science Garden, Quezon City",50.8,0.0,2020-08-09,Metro Manila,NCR
+Ferdie,2020,"Tarlac City, Tarlac",42.2,0.0,2020-08-09,Tarlac,Region III
+Nika,2020,"Iba, Zambales",305.4,0.0,2020-10-11,Zambales,Region III
+Nika,2020,"Subic Bay International Airport, Mabalacat, Pampanga",165.5,0.0,2020-10-11,Pampanga,Region III
+Nika,2020,"Casiguran, Aurora",107.2,0.0,2020-10-11,Aurora,Region III
+Nika,2020,"Camiling, Tarlac",75.2,0.0,2020-10-11,Tarlac,Region III
+Nika,2020,"Mactan-Cebu International Airport, Lapu-Lapu City",49.8,0.0,2020-10-11,Cebu,Region VII
+Pepito,2020,"Cuyo, Palawan",150.2,0.0,2020-10-19,Palawan,Region IV-B
+Pepito,2020,"Pili, Camarines Sur",101.6,0.0,2020-10-19,Camarines Sur,Region V
+Pepito,2020,"Alabat, Quezon",99.9,0.0,2020-10-19,Quezon,Region IV-A
+Pepito,2020,"Baler, Aurora",94.0,20.0,2020-10-19,Aurora,Region III
+Pepito,2020,"Roxas City, Capiz",89.0,0.0,2020-10-19,Capiz,Region VI
+Pepito,2020,"Subic Bay International Airport, Morong, Bataan",0.0,23.0,2020-10-19,Bataan,Region III
+Pepito,2020,"Iba, Zambales",0.0,22.0,2020-10-19,Zambales,Region III
+Pepito,2020,"Ninoy Aquino International Airport, Pasay City",0.0,20.0,2020-10-19,Metro Manila,NCR
+Pepito,2020,Baguio City,0.0,19.0,2020-10-19,Benguet,CAR
+Pepito,2020,"Casiguran, Aurora",0.0,18.0,2020-10-19,Aurora,Region III
+Quinta,2020,"Legazpi City, Albay",282.7,36.0,2020-10-23,Albay,Region V
+Quinta,2020,"Juban, Sorsogon",197.8,0.0,2020-10-23,Sorsogon,Region V
+Quinta,2020,"San Jose, Occidental Mindoro",175.4,30.0,2020-10-23,Occidental Mindoro,Region IV-B
+Quinta,2020,"Infanta, Quezon",163.4,0.0,2020-10-23,Quezon,Region IV-A
+Quinta,2020,"Calapan City, Oriental Mindoro",151.6,36.0,2020-10-23,Oriental Mindoro,Region IV-B
+Quinta,2020,"Virac, Catanduanes",0.0,28.0,2020-10-23,Catanduanes,Region V
+Quinta,2020,"Romblon, Romblon",0.0,27.0,2020-10-23,Romblon,Region IV-B
+Quinta,2020,"Tayabas, Quezon",0.0,24.0,2020-10-23,Quezon,Region IV-A
+Rolly,2020,"Virac, Catanduanes",238.0,38.0,2020-10-29,Catanduanes,Region V
+Rolly,2020,"Guinobatan, Albay",191.2,0.0,2020-10-29,Albay,Region V
+Rolly,2020,"Legazpi City, Albay",166.7,55.0,2020-10-29,Albay,Region V
+Rolly,2020,"Juban, Sorsogon",149.4,0.0,2020-10-29,Sorsogon,Region V
+Rolly,2020,"Indang, Cavite",148.0,0.0,2020-10-29,Cavite,Region IV-A
+Rolly,2020,"Daet, Camarines Norte",0.0,35.0,2020-10-29,Camarines Norte,Region V
+Rolly,2020,"Tanay, Rizal",0.0,28.0,2020-10-29,Rizal,Region IV-A
+Rolly,2020,"Sangley Pt., Cavite City, Cavite",0.0,27.0,2020-10-29,Cavite,Region IV-A
+Tonyo,2020,"Catarman (Synoptic), Northern Samar",155.4,14.0,2020-11-07,Northern Samar,Region VIII
+Tonyo,2020,"Aparri, Cagayan",128.7,0.0,2020-11-07,Cagayan,Region II
+Tonyo,2020,"Catarman (Agromet), Northern Samar",127.6,0.0,2020-11-07,Northern Samar,Region VIII
+Tonyo,2020,"Casiguran, Aurora",123.0,0.0,2020-11-07,Aurora,Region III
+Tonyo,2020,"Juban, Sorsogon",101.4,0.0,2020-11-07,Sorsogon,Region V
+Tonyo,2020,"Legazpi City, Albay",0.0,18.0,2020-11-07,Albay,Region V
+Tonyo,2020,"Subic Bay International Airport, Morong, Bataan",0.0,15.0,2020-11-07,Bataan,Region III
+Tonyo,2020,"Calapan City, Oriental Mindoro",0.0,15.0,2020-11-07,Oriental Mindoro,Region IV-B
+Tonyo,2020,"Tanay, Rizal",0.0,14.0,2020-11-07,Rizal,Region IV-A
+Tonyo,2020,"Sangley Pt. Cavite City, Cavite",0.0,11.0,2020-11-07,Cavite,Region IV-A
+Tonyo,2020,"San Jose, Occidental Mindoro",0.0,11.0,2020-11-07,Occidental Mindoro,Region IV-B
+Tonyo,2020,"Masbate City, Masbate",0.0,11.0,2020-11-07,Masbate,Region V
+Tonyo,2020,"Romblon, Romblon",0.0,10.0,2020-11-07,Romblon,Region IV-B
+Tonyo,2020,"Guiuan, Eastern Samar",0.0,10.0,2020-11-07,Eastern Samar,Region VIII
+Ulysses,2020,"Tanay, Rizal",356.2,28.0,2020-11-08,Rizal,Region IV-A
+Ulysses,2020,"Daet, Camarines Norte",270.6,42.0,2020-11-08,Camarines Norte,Region V
+Ulysses,2020,"Infanta, Quezon",255.1,36.0,2020-11-08,Quezon,Region IV-A
+Ulysses,2020,"Casiguran, Aurora",238.0,0.0,2020-11-08,Aurora,Region III
+Ulysses,2020,"Aparri, Cagayan",209.0,0.0,2020-11-08,Cagayan,Region II
+Ulysses,2020,"Baler, Aurora",0.0,34.0,2020-11-08,Aurora,Region III
+Ulysses,2020,"Virac, Catanduanes",0.0,27.0,2020-11-08,Catanduanes,Region V
+Vicky,2020,"Casiguran, Aurora",193.2,0.0,2020-12-18,Aurora,Region III
+Vicky,2020,"Hinatuan, Surigao del Sur",182.2,17.0,2020-12-18,Surigao del Sur,Region XIII
+Vicky,2020,"Pag-asa Island, Kalayaan, Palawan",177.8,0.0,2020-12-18,Palawan,Region IV-B
+Vicky,2020,"Baybay City, Leyte",164.4,0.0,2020-12-18,Leyte,Region VIII
+Vicky,2020,"Surigao City, Surigao del Norte",163.6,0.0,2020-12-18,Surigao del Norte,Region XIII
+Vicky,2020,"Guiuan, Eastern Samar",0.0,23.0,2020-12-18,Eastern Samar,Region VIII
+Vicky,2020,"Maasin City, Southern Leyte",0.0,20.0,2020-12-18,Southern Leyte,Region VIII
+Vicky,2020,"Puerto Princesa City, Palawan",0.0,16.0,2020-12-18,Palawan,Region IV-B
+Vicky,2020,"Borongan City, Eastern Samar",0.0,15.0,2020-12-18,Eastern Samar,Region VIII

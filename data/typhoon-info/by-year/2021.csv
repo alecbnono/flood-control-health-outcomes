@@ -1,0 +1,75 @@
+Typhoon,Year,Location,Max 24-hour Rainfall (mm),Peak Gust (10 mins sustained) (m/s),Date
+Bising,2021,"Catarman, Northern Samar",265.5,0.0,2021-04-16
+Bising,2021,"Virac, Catanduanes",252.2,30.0,2021-04-16
+Bising,2021,"Pili, Camarines Sur",141.6,0.0,2021-04-16
+Bising,2021,"Catbalogan City, Samar",124.2,0.0,2021-04-16
+Bising,2021,"Guiuan, Eastern Samar",102.9,26.0,2021-04-16
+Bising,2021,"Tacloban City, Leyte",0.0,22.0,2021-04-16
+Bising,2021,"Basco, Batanes",0.0,21.0,2021-04-16
+Bising,2021,"Borongan City, Eastern Samar",0.0,20.0,2021-04-16
+Dante,2021,"Maasin City, Southern Leyte",395.4,0.0,2021-05-30
+Dante,2021,"San Jose, Occidental Mindoro",137.3,19.0,2021-05-30
+Dante,2021,"El Salvador City, Misamis Oriental",121.8,0.0,2021-05-30
+Dante,2021,"Hinatuan, Surigao Del Sur",104.0,0.0,2021-05-30
+Dante,2021,"Abucay, Bataan",103.0,20.0,2021-05-30
+Dante,2021,"Romblon City, Romblon",0.0,22.0,2021-05-30
+Dante,2021,"Guiuan, Eastern Samar",0.0,20.0,2021-05-30
+Dante,2021,"Basco, Batanes",0.0,17.0,2021-05-30
+Dante,2021,"Catarman, Northern Samar",0.0,17.0,2021-05-30
+Dante,2021,"Calapan City, Oriental Mindoro",0.0,16.0,2021-05-30
+Dante,2021,"Itbayat, Batanes",0.0,16.0,2021-05-30
+Dante,2021,"Mactan-Cebu International Airport, Lapu-Lapu City",0.0,16.0,2021-05-30
+Dante,2021,"Sangley Pt., Cavite City, Cavite",0.0,16.0,2021-05-30
+Emong,2021,"Iba, Zambales",166.8,0.0,2021-07-02
+Emong,2021,"Alabat, Quezon",154.2,0.0,2021-07-02
+Emong,2021,"Baler, Aurora",122.0,10.0,2021-07-02
+Emong,2021,"Virac, Catanduanes",85.8,0.0,2021-07-02
+Emong,2021,"Tanay, Rizal",81.3,0.0,2021-07-02
+Emong,2021,"Basco, Batanes",0.0,20.0,2021-07-02
+Emong,2021,Baguio City,0.0,10.0,2021-07-02
+Emong,2021,"Calayan, Cagayan",0.0,10.0,2021-07-02
+Fabian,2021,"Mt. Cabuyao, Tuba, Benguet",246.8,0.0,2021-07-16
+Fabian,2021,"Abucay, Bataan",218.1,0.0,2021-07-16
+Fabian,2021,Baguio City,214.6,20.0,2021-07-16
+Fabian,2021,"Iba, Zambales",213.6,0.0,2021-07-16
+Fabian,2021,"Port Area, Manila",206.9,0.0,2021-07-16
+Fabian,2021,"Baler, Aurora",0.0,26.0,2021-07-16
+Fabian,2021,"Basco, Batanes",0.0,20.0,2021-07-16
+Fabian,2021,"Laoag City, Ilocos Norte",0.0,13.0,2021-07-16
+Fabian,2021,"Aparri, Cagayan",0.0,12.0,2021-07-16
+Fabian,2021,"Itbayat, Batanes",0.0,12.0,2021-07-16
+Fabian,2021,"Casiguran, Aurora",0.0,10.0,2021-07-16
+Jolina,2021,"Mt. Cabuyao, Tuba, Benguet",187.8,0.0,2021-09-06
+Jolina,2021,"Tayabas City, Quezon",166.8,0.0,2021-09-06
+Jolina,2021,"Catbalogan City, Samar",152.1,22.0,2021-09-06
+Jolina,2021,"Guiuan, Eastern Samar",150.1,38.0,2021-09-06
+Jolina,2021,"Tacloban City, Leyte",141.2,0.0,2021-09-06
+Jolina,2021,"Ambulong, Tanauan City, Batangas",0.0,24.0,2021-09-06
+Jolina,2021,"Tanay, Rizal",0.0,23.0,2021-09-06
+Jolina,2021,"Borongan City, Eastern Samar",0.0,20.0,2021-09-06
+Jolina,2021,"Masbate City, Masbate",0.0,20.0,2021-09-06
+Kiko,2021,"Itbayat, Batanes",510.0,60.0,2021-09-07
+Kiko,2021,"Basco, Batanes",420.7,86.0,2021-09-07
+Kiko,2021,"Mt. Cabuyao, Tuba, Benguet",187.8,0.0,2021-09-07
+Kiko,2021,"Tayabas City, Quezon",166.8,0.0,2021-09-07
+Kiko,2021,"Iba, Zambales",137.2,0.0,2021-09-07
+Kiko,2021,"Calayan, Cagayan",0.0,30.0,2021-09-07
+Kiko,2021,"Aparri, Cagayan",0.0,15.0,2021-09-07
+Kiko,2021,"Baler, Aurora",0.0,13.0,2021-09-07
+Kiko,2021,"Laoag City, Ilocos Norte",0.0,13.0,2021-09-07
+Maring,2021,Baguio City,625.3,0.0,2021-10-07
+Maring,2021,"Mt. Cabuyao, Tuba, Benguet",500.8,0.0,2021-10-07
+Maring,2021,"Dagupan City, Pangasinan",241.3,22.0,2021-10-07
+Maring,2021,"San Jose, Occidental Mindoro",140.8,0.0,2021-10-07
+Maring,2021,"Aparri, Cagayan",138.4,24.0,2021-10-07
+Maring,2021,"Basco, Batanes",0.0,34.0,2021-10-07
+Maring,2021,"Calayan, Cagayan",0.0,28.0,2021-10-07
+Maring,2021,"Itbayat, Batanes",0.0,25.0,2021-10-07
+Odette,2021,"Surigao City, Surigao del Norte",267.6,58.0,2021-12-14
+Odette,2021,"Dauis, Bohol",230.6,31.0,2021-12-14
+Odette,2021,"Malaybalay City, Bukidnon",165.6,0.0,2021-12-14
+Odette,2021,"Puerto Princesa City, Palawan",156.5,0.0,2021-12-14
+Odette,2021,"Virac, Catanduanes",135.7,0.0,2021-12-14
+Odette,2021,"Maasin City, Southern Leyte",0.0,55.0,2021-12-14
+Odette,2021,"Mactan-Cebu International Airport, Lapu-Lapu City",0.0,45.0,2021-12-14
+Odette,2021,"Guiuan, Eastern Samar",0.0,38.0,2021-12-14

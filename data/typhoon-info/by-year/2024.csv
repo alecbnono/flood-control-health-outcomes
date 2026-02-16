@@ -1,0 +1,103 @@
+Typhoon,Year,Location,Max 24-hour Rainfall (mm),Peak Gust (10 mins sustained) (m/s),Date
+Aghon,2024,"Mulanay, Quezon",229.4,15.0,2024-05-24
+Aghon,2024,"Tayabas, Quezon",226.5,22.0,2024-05-24
+Aghon,2024,"Sinait, Ilocos Sur",176.5,0.0,2024-05-24
+Aghon,2024,"Alabat, Quezon",152.2,0.0,2024-05-24
+Aghon,2024,"Infanta, Quezon",147.3,14.0,2024-05-24
+Aghon,2024,"Guiuan, Eastern Samar",0.0,20.0,2024-05-24
+Aghon,2024,"Baler, Aurora",0.0,16.0,2024-05-24
+Aghon,2024,"Surigao City, Surigao del Sur",0.0,15.0,2024-05-24
+Aghon,2024,"Tacloban City, Leyte",0.0,14.0,2024-05-24
+Aghon,2024,"Borongan City, Eastern Samar",0.0,14.0,2024-05-24
+Carina,2024,"Calayan, Cagayan",342.8,26.0,2024-07-19
+Carina,2024,"Science Garden, Quezon City",323.9,0.0,2024-07-19
+Carina,2024,Baguio City,294.0,0.0,2024-07-19
+Carina,2024,"Cubi Pt., Subic",282.7,0.0,2024-07-19
+Carina,2024,"Tanay, Rizal",262.0,0.0,2024-07-19
+Carina,2024,"Basco, Batanes",0.0,28.0,2024-07-19
+Carina,2024,"Itbayat, Batanes",0.0,20.0,2024-07-19
+Carina,2024,"Aparri, Cagayan",0.0,15.0,2024-07-19
+Enteng,2024,"Daet, Camarines Norte",258.9,0.0,2024-09-01
+Enteng,2024,"Iba, Zambales",256.6,0.0,2024-09-01
+Enteng,2024,"Muñoz City, Nueva Ecija",217.8,0.0,2024-09-01
+Enteng,2024,"Infanta, Quezon",216.0,0.0,2024-09-01
+Enteng,2024,"Alabat, Quezon",210.5,0.0,2024-09-01
+Enteng,2024,"Casiguran, Aurora",0.0,22.0,2024-09-01
+Enteng,2024,"Baler, Aurora",0.0,19.0,2024-09-01
+Enteng,2024,"Ninoy Aquino International Airport, Parañaque City",0.0,18.0,2024-09-01
+Enteng,2024,"Virac, Catanduanes",0.0,18.0,2024-09-01
+Enteng,2024,"Mulanay, Quezon",0.0,15.0,2024-09-01
+Enteng,2024,"Echague, Isabela",0.0,15.0,2024-09-01
+Enteng,2024,"Tuguegarao City, Cagayan",0.0,14.0,2024-09-01
+Enteng,2024,"Science Garden, Quezon City",0.0,14.0,2024-09-01
+Enteng,2024,"Guiuan, Eastern Samar",0.0,14.0,2024-09-01
+Ferdie,2024,"Dumangas, Iloilo",240.0,0.0,2024-09-13
+Ferdie,2024,"San Jose, Occidental Mindoro",178.6,0.0,2024-09-13
+Ferdie,2024,"La Carlota City, Negros Occidental",158.2,0.0,2024-09-13
+Ferdie,2024,"Tayabas, Quezon",148.1,0.0,2024-09-13
+Ferdie,2024,"Pili, Camarines Sur",127.2,0.0,2024-09-13
+Gener,2024,"Dumangas, Iloilo",156.0,0.0,2024-09-16
+Gener,2024,"La Carlota City, Negros Oriental",134.9,0.0,2024-09-16
+Gener,2024,"San Jose, Occidental Mindoro",108.0,0.0,2024-09-16
+Gener,2024,"Dagupan City, Pangasinan",99.1,12.0,2024-09-16
+Gener,2024,"Calayan, Cagayan",89.5,17.0,2024-09-16
+Gener,2024,"Baler, Aurora",0.0,13.0,2024-09-16
+Gener,2024,"Iba, Zambales",0.0,10.0,2024-09-16
+Gener,2024,"Infanta, Quezon",0.0,8.0,2024-09-16
+Helen,2024,"Dumangas, Iloilo",156.0,0.0,2024-09-17
+Helen,2024,"Dagupan City, Pangasinan",99.1,0.0,2024-09-17
+Helen,2024,"Coron, Palawan",86.1,0.0,2024-09-17
+Helen,2024,"Abucay, Bataan",84.7,0.0,2024-09-17
+Helen,2024,"Tagum City, Davao del Norte",70.6,0.0,2024-09-17
+Igme,2024,"Iba, Zambales",174.0,0.0,2024-09-20
+Igme,2024,"Tayabas, Quezon",97.1,0.0,2024-09-20
+Igme,2024,"Abucay, Bataan",78.9,0.0,2024-09-20
+Igme,2024,"Cubi Pt., Zambales",78.5,0.0,2024-09-20
+Igme,2024,"Aparri, Cagayan",78.0,0.0,2024-09-20
+Julian,2024,"Basco, Batanes",728.0,66.0,2024-09-30
+Julian,2024,"Laoag City, Ilocos Norte",481.6,18.0,2024-09-30
+Julian,2024,"Calayan, Cagayan",201.5,42.0,2024-09-30
+Julian,2024,"Batac, Ilocos Norte",193.4,0.0,2024-09-30
+Julian,2024,"Sinait, Ilocos Sur",162.4,0.0,2024-09-30
+Julian,2024,"Itbayat, Batanes",0.0,50.0,2024-09-30
+Julian,2024,"Aparri, Cagayan",0.0,16.0,2024-09-30
+Julian,2024,"Baler, Aurora",0.0,16.0,2024-09-30
+Kristine,2024,"Daet, Camarines Norte",528.5,0.0,2024-10-20
+Kristine,2024,"Legazpi City, Albay",431.0,0.0,2024-10-20
+Kristine,2024,"Juban, Sorsogon",406.0,0.0,2024-10-20
+Kristine,2024,"Ambulong, Tanauan City, Batangas",391.3,25.0,2024-10-20
+Kristine,2024,"Mulanay, Quezon",384.6,0.0,2024-10-20
+Kristine,2024,"Calayan, Cagayan",0.0,28.0,2024-10-20
+Kristine,2024,"Itbayat, Batanes",0.0,26.0,2024-10-20
+Kristine,2024,"Cubi Pt., Subic Bay",0.0,26.0,2024-10-20
+Kristine,2024,"Aparri, Cagayan",0.0,25.0,2024-10-20
+Kristine,2024,"Abucay, Bataan",0.0,24.0,2024-10-20
+Kristine,2024,Baguio City,0.0,22.0,2024-10-20
+Marce,2024,"Calayan, Cagayan",242.6,33.0,2024-11-04
+Marce,2024,"Aparri, Cagayan",131.0,42.0,2024-11-04
+Marce,2024,"Laoag City, Ilocos Norte",85.9,30.0,2024-11-04
+Marce,2024,"Sinait, Ilocos Sur",84.4,0.0,2024-11-04
+Marce,2024,"Tuguegarao City, Cagayan",81.5,16.0,2024-11-04
+Marce,2024,"Itbayat, Batanes",0.0,26.0,2024-11-04
+Ofel,2024,"Virac, Catanduanes",225.8,0.0,2024-11-12
+Ofel,2024,"Basco, Batanes",149.5,0.0,2024-11-12
+Ofel,2024,"Calayan, Cagayan",142.7,38.0,2024-11-12
+Ofel,2024,"Daet, Camarines Norte",140.0,0.0,2024-11-12
+Ofel,2024,"Echague, Isabela",121.3,0.0,2024-11-12
+Ofel,2024,"Aparri, Cagayan",0.0,25.0,2024-11-12
+Ofel,2024,"Tuguegarao City, Cagayan",0.0,19.0,2024-11-12
+Ofel,2024,"Itbayat, Batanes",0.0,18.0,2024-11-12
+Ofel,2024,"Baler, Aurora",0.0,15.0,2024-11-12
+Pepito,2024,"Casiguran, Aurora",255.0,40.0,2024-11-14
+Pepito,2024,"Virac, Catanduanes",225.8,39.0,2024-11-14
+Pepito,2024,"La Trinidad, Benguet",200.5,0.0,2024-11-14
+Pepito,2024,Baguio City,192.0,0.0,2024-11-14
+Pepito,2024,"Muñoz City, Nueva Ecija",174.4,0.0,2024-11-14
+Pepito,2024,"Baler, Aurora",0.0,58.0,2024-11-14
+Pepito,2024,"Bayombong, Nueva Vizcaya",0.0,26.0,2024-11-14
+Pepito,2024,"Legazpi City, Albay",0.0,25.0,2024-11-14
+Romina,2024,"Catarman, Northern Samar",327.2,0.0,2024-11-20
+Romina,2024,"Puerto Princesa City, Palawan",220.6,0.0,2024-11-20
+Romina,2024,"Borongan City, Eastern Samar",136.8,0.0,2024-11-20
+Romina,2024,"Catbalogan City, Samar",103.6,0.0,2024-11-20
+Romina,2024,"Juban, Sorsogon",87.0,0.0,2024-11-20
