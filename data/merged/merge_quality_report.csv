@@ -1,9 +1,0 @@
-metric,value,section
-info_unique_keys,200,coverage
-impact_unique_keys,386,coverage
-intersection,81,coverage
-only_info,119,coverage
-only_impact,305,coverage
-impact_only,305,merge_source_distribution
-info_infra_only,119,merge_source_distribution
-both,81,merge_source_distribution
