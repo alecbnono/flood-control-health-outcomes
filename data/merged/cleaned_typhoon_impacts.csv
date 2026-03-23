@@ -68,21 +68,20 @@ Vicky,Region VII,2020,Tropical Storm,0,0,2598,66,36,102,5000000.0,0.0
 Vicky,Region VIII,2020,Tropical Storm,0,0,38,0,0,0,0.0,0.0
 Vicky,Region XI,2020,Tropical Storm,0,0,2818,0,1,1,6840000.0,21469638.0
 Vicky,Region XIII,2020,Tropical Storm,0,0,170495,411,540,951,138191970.75,29671080.0
-Auring,CARAGA,2021,Tropical Storm,1,2,121770,60,180,240,0.0,21400000.0
 Auring,Region V,2021,Tropical Storm,0,0,0,0,47,0,0.0,0.0
 Auring,Region VII,2021,Tropical Storm,0,0,0,0,83,0,0.0,0.0
 Auring,Region VIII,2021,Tropical Storm,0,0,0,0,5,0,0.0,0.0
 Auring,Region X,2021,Tropical Storm,0,0,0,0,6661,0,0.0,0.0
 Auring,Region XI,2021,Tropical Storm,0,0,0,0,1796,0,0.0,0.0
-Bising,CARAGA,2021,Super Typhoon,0,0,257,1,5,6,0.0,0.0
+Auring,Region XIII,2021,Tropical Storm,1,2,121770,60,180,240,0.0,21400000.0
 Bising,Region II,2021,Super Typhoon,0,0,303,0,0,0,0.0,0.0
 Bising,Region V,2021,Super Typhoon,0,0,138546,0,0,0,0.0,0.0
 Bising,Region VIII,2021,Super Typhoon,6,20,311559,150,3306,3456,0.0,261131102.73
+Bising,Region XIII,2021,Super Typhoon,0,0,257,1,5,6,0.0,0.0
 Crising,Region IX,2021,Tropical Storm,0,0,45075,4,11,15,0.0,0.0
 Crising,Region XI,2021,Tropical Storm,0,4,14522,2,95,97,0.0,0.0
-Dante,CALABARZON,2021,Tropical Storm,0,0,2628,0,0,0,0.0,0.0
-Dante,CARAGA,2021,Tropical Storm,0,0,0,0,3,3,0.0,0.0
 Dante,Region III,2021,Tropical Storm,0,0,150,0,0,0,0.0,0.0
+Dante,Region IV-A,2021,Tropical Storm,0,0,2628,0,0,0,0.0,0.0
 Dante,Region IV-B,2021,Tropical Storm,0,0,745,0,0,0,0.0,0.0
 Dante,Region V,2021,Tropical Storm,0,0,1780,31,264,295,0.0,0.0
 Dante,Region VI,2021,Tropical Storm,0,0,15470,81,2552,2633,0.0,0.0
@@ -90,21 +89,22 @@ Dante,Region VII,2021,Tropical Storm,0,0,1415,0,0,0,0.0,0.0
 Dante,Region VIII,2021,Tropical Storm,0,0,9434,33,239,272,0.0,0.0
 Dante,Region XI,2021,Tropical Storm,0,0,361,3,3,6,0.0,0.0
 Dante,Region XII,2021,Tropical Storm,0,0,0,0,0,0,0.0,0.0
+Dante,Region XIII,2021,Tropical Storm,0,0,0,0,3,3,0.0,0.0
 Emong,Region IX,2021,Tropical Storm,0,0,0,0,0,0,0.0,0.0
-Fabian,CALABARZON,2021,Typhoon,0,0,3494,40,97,137,41519091.21,0.0
 Fabian,CAR,2021,Typhoon,0,0,685,5,52,57,0.0,1486111.5
 Fabian,NCR,2021,Typhoon,0,0,25881,20,0,20,0.0,0.0
 Fabian,Region I,2021,Typhoon,0,0,4201,0,35,35,150000.0,0.0
 Fabian,Region III,2021,Typhoon,0,0,603,0,3,3,14538220.81,0.0
+Fabian,Region IV-A,2021,Typhoon,0,0,3494,40,97,137,41519091.21,0.0
 Fabian,Region IV-B,2021,Typhoon,0,0,78257,35,23,58,191675385.0,1278141403.82
 Fabian,Region V,2021,Typhoon,0,0,0,0,0,0,0.0,5479886.41
 Fabian,Region VI,2021,Typhoon,0,0,1202,38,118,156,3824600.0,2598114.7
 Gorio,Region I,2021,Tropical Storm,0,0,0,0,0,0,0.0,0.0
 Huaning,Region IV-B,2021,Tropical Depression,0,0,0,0,0,0,0.0,0.0
 Isang,Region II,2021,Tropical Storm,0,0,0,0,0,0,0.0,0.0
-Jolina,CALABARZON,2021,Typhoon,0,0,75016,313,4703,5016,0.0,0.0
 Jolina,NCR,2021,Typhoon,0,0,247,0,0,0,0.0,0.0
 Jolina,Region III,2021,Typhoon,0,0,7464,0,0,0,0.0,0.0
+Jolina,Region IV-A,2021,Typhoon,0,0,75016,313,4703,5016,0.0,0.0
 Jolina,Region IV-B,2021,Typhoon,0,0,0,8,1294,1302,0.0,0.0
 Jolina,Region V,2021,Typhoon,20,33,0,327,1708,2035,0.0,1349221036.1
 Jolina,Region VI,2021,Typhoon,0,0,15470,2,8,10,0.0,0.0
@@ -115,25 +115,24 @@ Lannie,Region IV-B,2021,Tropical Depression,0,0,300,0,0,0,0.0,0.0
 Lannie,Region VI,2021,Tropical Depression,1,0,25386,4,17,21,0.0,12225109.47
 Lannie,Region VII,2021,Tropical Depression,1,0,0,0,0,0,0.0,0.0
 Lannie,Region VIII,2021,Tropical Depression,0,0,0,0,0,0,0.0,0.0
-Maring,CALABARZON,2021,Severe Tropical Storm,0,0,0,2,0,2,0.0,0.0
 Maring,CAR,2021,Severe Tropical Storm,7,2,130655,57,888,945,104070238.36,426997123.36
-Maring,CARAGA,2021,Severe Tropical Storm,0,0,0,8,45,53,1980000.0,960550.0
 Maring,Region I,2021,Severe Tropical Storm,26,3,429089,141,5930,6071,911008500.0,1392604998.65
 Maring,Region II,2021,Severe Tropical Storm,2,0,51861,6,6,12,37876550.0,276832083.36
 Maring,Region III,2021,Severe Tropical Storm,0,0,0,28,1,29,0.0,42060692.88
+Maring,Region IV-A,2021,Severe Tropical Storm,0,0,0,2,0,2,0.0,0.0
 Maring,Region IV-B,2021,Severe Tropical Storm,5,0,0,52,60,112,980000.0,33504242.84
 Maring,Region VI,2021,Severe Tropical Storm,0,0,0,23,152,175,500000.0,70854.06
+Maring,Region XIII,2021,Severe Tropical Storm,0,0,0,8,45,53,1980000.0,960550.0
 Nando,Region II,2021,Tropical Depression,0,0,0,0,0,0,0.0,0.0
-Odette,CARAGA,2021,Super Typhoon,71,0,106562,241,9928,10169,12823973975.0,742395847.0
 Odette,Region IV-B,2021,Super Typhoon,25,0,62264,6,23,29,1482902055.0,2257525328.0
 Odette,Region VI,2021,Super Typhoon,54,0,57866,18,3749,3767,0.0,2771875553.0
 Odette,Region VII,2021,Super Typhoon,220,1371,327008,56,5381,5437,2155000.0,618141700.0
 Odette,Region VIII,2021,Super Typhoon,26,0,173053,204,7270,7474,173400000.0,1166744446.0
 Odette,Region X,2021,Super Typhoon,8,0,4046,7,201,208,244888000.0,98777609.0
+Odette,Region XIII,2021,Super Typhoon,71,0,106562,241,9928,10169,12823973975.0,742395847.0
 Paolo,Region VIII,2021,Tropical Storm,0,0,0,0,0,0,0.0,0.0
 Quedan,Region II,2021,Tropical Storm,0,0,0,0,0,0,0.0,0.0
 Agaton,BARMM,2022,Tropical Storm,0,0,0,0,0,0,0.0,874000.0
-Agaton,CARAGA,2022,Tropical Storm,0,0,0,2,2,4,0.0,0.0
 Agaton,Region V,2022,Tropical Storm,0,0,0,0,5,5,0.0,0.0
 Agaton,Region VI,2022,Tropical Storm,22,0,0,1907,16287,18194,0.0,1320860740.06
 Agaton,Region VII,2022,Tropical Storm,0,0,0,27,206,233,0.0,0.0
@@ -141,28 +140,29 @@ Agaton,Region VIII,2022,Tropical Storm,122,0,0,376,632,1008,0.0,942895292.02
 Agaton,Region X,2022,Tropical Storm,0,2,0,2,45,47,0.0,8000.0
 Agaton,Region XI,2022,Tropical Storm,0,0,0,0,3,3,0.0,0.0
 Agaton,Region XII,2022,Tropical Storm,0,4,0,5,41,46,709500.0,0.0
+Agaton,Region XIII,2022,Tropical Storm,0,0,0,2,2,4,0.0,0.0
 Ester,Region V,2022,Tropical Depression,0,0,10,0,23,33,0.0,0.0
 Ester,Region VI,2022,Tropical Depression,0,0,1,0,1,2,0.0,5453240.0
-Florita,CALABARZON,2022,Severe Tropical Storm,0,0,0,0,0,0,0.0,0.0
 Florita,CAR,2022,Severe Tropical Storm,1,0,35231,1,0,1,0.0,0.0
 Florita,NCR,2022,Severe Tropical Storm,0,0,7866,0,0,0,0.0,0.0
 Florita,Region I,2022,Severe Tropical Storm,1,0,127122,0,24,24,546700000.0,13028205.0
 Florita,Region II,2022,Severe Tropical Storm,1,3,95618,3,44,47,24400000.0,1831146406.66
 Florita,Region III,2022,Severe Tropical Storm,0,0,0,10,13,23,0.0,0.0
+Florita,Region IV-A,2022,Severe Tropical Storm,0,0,0,0,0,0,0.0,0.0
 Henry,CAR,2022,Super Typhoon,0,0,0,0,12,12,61372000.0,0.0
 Henry,Region I,2022,Super Typhoon,0,0,0,0,0,0,0.0,0.0
 Henry,Region III,2022,Super Typhoon,0,0,0,0,0,0,0.0,0.0
-Karding,CALABARZON,2022,Super Typhoon,4,2,178660,0,0,0,0.0,240800000.0
 Karding,CAR,2022,Super Typhoon,0,0,1827,0,12,12,19897400.0,2200000.0
 Karding,Region I,2022,Super Typhoon,0,0,4041,0,0,0,950000.0,60100000.0
 Karding,Region II,2022,Super Typhoon,0,0,3220,0,0,0,280297910.0,171000000.0
 Karding,Region III,2022,Super Typhoon,5,66,1258100,0,0,0,0.0,2731800000.0
+Karding,Region IV-A,2022,Super Typhoon,4,2,178660,0,0,0,0.0,240800000.0
 Karding,Region IV-B,2022,Super Typhoon,0,0,1818,0,0,0,3000000.0,0.0
 Karding,Region V,2022,Super Typhoon,0,0,3983,0,0,0,100000.0,53300000.0
 Karding,Region VI,2022,Super Typhoon,0,0,0,0,0,0,0.0,9700000.0
-Maymay,CALABARZON,2022,Tropical Depression,0,0,0,0,0,0,0.0,0.0
 Maymay,CAR,2022,Tropical Depression,0,0,1803,0,0,0,0.0,0.0
 Maymay,Region II,2022,Tropical Depression,1,0,41996,0,0,0,14252147.37,114350000.0
+Maymay,Region IV-A,2022,Tropical Depression,0,0,0,0,0,0,0.0,0.0
 Neneng,CAR,2022,Severe Tropical Storm,0,0,6154,1,9,10,22655000.0,3921190.0
 Neneng,Region I,2022,Severe Tropical Storm,0,0,27485,9,150,159,372800000.0,2185138.0
 Neneng,Region II,2022,Severe Tropical Storm,0,0,157691,49,61,110,55260000.0,497548466.38
@@ -170,12 +170,12 @@ Obet,CAR,2022,Tropical Depression,0,0,800,0,0,0,0.0,0.0
 Obet,Region I,2022,Tropical Depression,0,0,120,0,0,0,0.0,0.0
 Obet,Region II,2022,Tropical Depression,0,0,9974,0,0,0,0.0,0.0
 Paeng,BARMM,2022,Severe Tropical Storm,68,169,1077338,1062,1153,2215,511200000.0,639521156.56
-Paeng,CALABARZON,2022,Severe Tropical Storm,23,22,1052028,1697,17703,19400,1769377360.69,726119476.09
 Paeng,CAR,2022,Severe Tropical Storm,1,6,36715,27,606,633,736841482.19,30726340.61
 Paeng,NCR,2022,Severe Tropical Storm,0,1,37151,0,0,0,0.0,0.0
 Paeng,Region I,2022,Severe Tropical Storm,0,0,38491,33,978,1011,63200000.0,52800110.5
 Paeng,Region II,2022,Severe Tropical Storm,0,1,331721,50,38,88,531938218.7,1217948410.99
 Paeng,Region III,2022,Severe Tropical Storm,2,0,445667,143,489,632,54700000.0,541956406.11
+Paeng,Region IV-A,2022,Severe Tropical Storm,23,22,1052028,1697,17703,19400,1769377360.69,726119476.09
 Paeng,Region IV-B,2022,Severe Tropical Storm,3,5,217573,242,3374,3616,1017659772.0,337343911.17
 Paeng,Region IX,2022,Severe Tropical Storm,0,0,79636,148,157,305,0.0,2360000.0
 Paeng,Region V,2022,Severe Tropical Storm,0,0,269616,242,3295,3537,793374689.99,924124008.65
@@ -185,8 +185,8 @@ Paeng,Region VIII,2022,Severe Tropical Storm,0,26,398480,167,6332,6499,0.0,0.0
 Paeng,Region X,2022,Severe Tropical Storm,0,0,6104,95,669,764,110050000.0,1354500.0
 Paeng,Region XI,2022,Severe Tropical Storm,0,0,9324,109,515,624,2500000.0,10000.0
 Paeng,Region XII,2022,Severe Tropical Storm,3,2,202492,409,1431,1840,0.0,0.0
-Rosal,CARAGA,2022,Tropical Storm,0,0,55,0,0,0,0.0,0.0
-Amang,CALABARZON,2023,Tropical Depression,0,0,1088,0,0,0,0.0,0.0
+Rosal,Region XIII,2022,Tropical Storm,0,0,55,0,0,0,0.0,0.0
+Amang,Region IV-A,2023,Tropical Depression,0,0,1088,0,0,0,0.0,0.0
 Amang,Region V,2023,Tropical Depression,0,0,95337,0,0,0,0.0,12341646.77
 Betty,CAR,2023,Super Typhoon,0,1,22017,1,43,44,0.0,25000.0
 Betty,Region I,2023,Super Typhoon,0,0,4917,1,10,11,0.0,108000.0
@@ -194,58 +194,57 @@ Betty,Region II,2023,Super Typhoon,0,0,24355,0,0,0,0.0,0.0
 Betty,Region III,2023,Super Typhoon,0,0,11361,2,2,4,0.0,0.0
 Betty,Region IV-B,2023,Super Typhoon,0,0,2200,0,0,0,0.0,0.0
 Betty,Region VI,2023,Super Typhoon,0,0,39455,7,36,43,0.0,0.0
-Dodong,CALABARZON,2023,Tropical Storm,0,0,193,0,14,14,0.0,0.0
 Dodong,NCR,2023,Tropical Storm,0,0,0,0,0,0,0.0,0.0
 Dodong,Region I,2023,Tropical Storm,0,0,27485,0,0,0,0.0,0.0
 Dodong,Region II,2023,Tropical Storm,0,0,157691,45,108,153,0.0,199000000.0
 Dodong,Region III,2023,Tropical Storm,0,0,220078,0,0,0,100000000.0,0.0
+Dodong,Region IV-A,2023,Tropical Storm,0,0,193,0,14,14,0.0,0.0
 Dodong,Region IV-B,2023,Tropical Storm,0,0,130,0,0,0,0.0,0.0
 Dodong,Region VI,2023,Tropical Storm,0,0,23171,0,0,0,0.0,0.0
-Egay,CALABARZON,2023,Super Typhoon,0,0,10520,0,0,0,0.0,213500.0
 Egay,CAR,2023,Super Typhoon,2,0,35231,1,114,115,736841482.19,50201787.23
 Egay,Region I,2023,Super Typhoon,0,0,945781,421,55966,56387,638510000.0,721200000.0
 Egay,Region II,2023,Super Typhoon,0,0,395618,203,7300,7503,862300000.0,593443500.93
 Egay,Region III,2023,Super Typhoon,0,0,1258100,0,0,0,434000000.0,1050000000.0
+Egay,Region IV-A,2023,Super Typhoon,0,0,10520,0,0,0,0.0,213500.0
 Egay,Region IV-B,2023,Super Typhoon,0,0,1818,0,0,0,10949100.0,0.0
 Egay,Region V,2023,Super Typhoon,0,0,3983,0,0,0,52005000.0,0.0
 Egay,Region VI,2023,Super Typhoon,0,0,1773525,0,0,0,1500000.0,9234566.3
-Goring,CALABARZON,2023,Super Typhoon,0,0,749,5,8,13,0.0,213500.0
 Goring,CAR,2023,Super Typhoon,0,0,35231,6,114,120,87610000.0,50201787.23
 Goring,Region I,2023,Super Typhoon,0,0,995,0,24,24,643510.0,13028205.0
 Goring,Region II,2023,Super Typhoon,0,0,95618,203,7293,7496,483173826.36,774240116.95
 Goring,Region III,2023,Super Typhoon,0,1,246978,0,10,10,0.0,5737325.56
+Goring,Region IV-A,2023,Super Typhoon,0,0,749,5,8,13,0.0,213500.0
 Goring,Region IV-B,2023,Super Typhoon,0,0,5348,10,45,55,10949100.0,29678492.99
 Goring,Region VI,2023,Super Typhoon,1,0,149799,88,1419,1507,1500000.0,192564208.39
-Jenny,CALABARZON,2023,Tropical Storm,0,0,7797,0,0,0,0.0,0.0
 Jenny,CAR,2023,Tropical Storm,0,0,16018,0,0,0,0.0,0.0
 Jenny,NCR,2023,Tropical Storm,0,0,7819,0,0,0,0.0,0.0
 Jenny,Region I,2023,Tropical Storm,0,0,15461,0,0,0,0.0,0.0
 Jenny,Region II,2023,Tropical Storm,0,0,61449,0,0,0,0.0,0.0
 Jenny,Region III,2023,Tropical Storm,0,0,3109,0,0,0,0.0,0.0
+Jenny,Region IV-A,2023,Tropical Storm,0,0,7797,0,0,0,0.0,0.0
 Jenny,Region IV-B,2023,Tropical Storm,0,0,6012,0,0,0,0.0,0.0
 Jenny,Region VI,2023,Tropical Storm,1,0,290388,1,25,26,0.0,0.0
-Kabayan,CARAGA,2023,Tropical Storm,0,0,353915,65,2106,2171,2352000.0,0.0
 Kabayan,Region IV-B,2023,Tropical Storm,0,0,350,2,0,2,0.0,0.0
 Kabayan,Region VI,2023,Tropical Storm,0,0,983,0,0,0,0.0,0.0
 Kabayan,Region VIII,2023,Tropical Storm,0,0,332,0,0,0,0.0,0.0
 Kabayan,Region X,2023,Tropical Storm,0,1,527,0,2,2,0.0,40000.0
 Kabayan,Region XI,2023,Tropical Storm,0,0,69759,120,556,676,0.0,0.0
-Aghon,CALABARZON,2024,Typhoon,5,0,126383,748,6890,7638,942546193.82,80402565.0
+Kabayan,Region XIII,2023,Tropical Storm,0,0,353915,65,2106,2171,2352000.0,0.0
 Aghon,NCR,2024,Typhoon,0,0,303,0,0,0,0.0,0.0
 Aghon,Region III,2024,Typhoon,0,0,8589,0,0,0,0.0,0.0
+Aghon,Region IV-A,2024,Typhoon,5,0,126383,748,6890,7638,942546193.82,80402565.0
 Aghon,Region IV-B,2024,Typhoon,0,0,3656,0,0,0,0.0,0.0
 Aghon,Region V,2024,Typhoon,0,0,10675,0,0,0,0.0,0.0
 Aghon,Region VII,2024,Typhoon,0,0,629,0,0,0,0.0,0.0
 Aghon,Region VIII,2024,Typhoon,0,0,2031,4,17,21,0.0,0.0
 Aghon,Region X,2024,Typhoon,1,1,0,0,0,0,0.0,0.0
 Butchoy and Carina,BARMM,2024,Combined Effects,1,0,552971,1,5,6,0.0,0.0
-Butchoy and Carina,CALABARZON,2024,Combined Effects,5,0,431459,947,6017,6964,340987686.58,71216065.48
 Butchoy and Carina,CAR,2024,Combined Effects,0,0,120941,19,189,208,327111236.87,17120879.52
-Butchoy and Carina,CARAGA,2024,Combined Effects,0,0,102,1,4,5,0.0,0.0
 Butchoy and Carina,NCR,2024,Combined Effects,0,0,754446,0,0,0,0.0,0.0
 Butchoy and Carina,Region I,2024,Combined Effects,0,0,440265,14,607,621,1856533490.46,1057920182.39
 Butchoy and Carina,Region II,2024,Combined Effects,0,0,15115,4,36,40,109458191.44,56517537.25
 Butchoy and Carina,Region III,2024,Combined Effects,2,7,3447004,487,354,841,1716909898.92,2523341865.15
+Butchoy and Carina,Region IV-A,2024,Combined Effects,5,0,431459,947,6017,6964,340987686.58,71216065.48
 Butchoy and Carina,Region IV-B,2024,Combined Effects,0,0,165111,40,479,519,1557124830.42,236443449.26
 Butchoy and Carina,Region IX,2024,Combined Effects,4,0,134393,20,24,44,0.0,8332258.6
 Butchoy and Carina,Region V,2024,Combined Effects,0,0,56205,21,80,101,0.0,48852959.91
@@ -255,19 +254,19 @@ Butchoy and Carina,Region VIII,2024,Combined Effects,0,0,8805,0,0,0,69569062.43,
 Butchoy and Carina,Region X,2024,Combined Effects,1,2,12081,12,17,29,4535019.28,31826726.84
 Butchoy and Carina,Region XI,2024,Combined Effects,1,0,1804,14,46,60,0.0,0.0
 Butchoy and Carina,Region XII,2024,Combined Effects,0,0,268142,25,15,40,0.0,247891860.99
-Enteng,CALABARZON,2024,Severe Tropical Storm,0,0,143562,400,866,1266,87333700.0,0.0
+Butchoy and Carina,Region XIII,2024,Combined Effects,0,0,102,1,4,5,0.0,0.0
 Enteng,CAR,2024,Severe Tropical Storm,0,0,4676,0,9,9,50355028.65,0.0
 Enteng,NCR,2024,Severe Tropical Storm,0,0,321911,0,0,0,0.0,0.0
 Enteng,Region I,2024,Severe Tropical Storm,0,1,180607,2,20,22,69500000.0,23602504.0
 Enteng,Region II,2024,Severe Tropical Storm,0,1,7764,0,0,0,111920772.5,83623466.25
 Enteng,Region III,2024,Severe Tropical Storm,0,0,930343,14,83,97,0.0,1100469046.81
+Enteng,Region IV-A,2024,Severe Tropical Storm,0,0,143562,400,866,1266,87333700.0,0.0
 Enteng,Region V,2024,Severe Tropical Storm,0,0,1199257,63,5656,5719,356146667.5,688367118.09
 Enteng,Region VI,2024,Severe Tropical Storm,1,0,1199,0,2,2,0.0,7446882.9
 Enteng,Region VII,2024,Severe Tropical Storm,0,0,74,5,5,10,0.0,0.0
 Enteng,Region VIII,2024,Severe Tropical Storm,0,0,215213,14,486,500,23645000.0,4117450.38
 Ferdie and Gener and Helen and Igme,BARMM,2024,Combined Effects,0,0,304560,43,219,262,0.0,0.0
 Ferdie and Gener and Helen and Igme,CAR,2024,Combined Effects,0,0,6423,0,3,3,20170000.0,0.0
-Ferdie and Gener and Helen and Igme,CARAGA,2024,Combined Effects,0,0,79,0,11,11,0.0,0.0
 Ferdie and Gener and Helen and Igme,Region II,2024,Combined Effects,0,0,7381,2,13,15,0.0,0.0
 Ferdie and Gener and Helen and Igme,Region III,2024,Combined Effects,0,0,350422,0,0,0,0.0,0.0
 Ferdie and Gener and Helen and Igme,Region IV-B,2024,Combined Effects,4,3,86430,31,254,285,0.0,739767570.46
@@ -278,17 +277,17 @@ Ferdie and Gener and Helen and Igme,Region VII,2024,Combined Effects,0,0,33613,3
 Ferdie and Gener and Helen and Igme,Region X,2024,Combined Effects,0,0,19630,51,554,605,2317500.0,0.0
 Ferdie and Gener and Helen and Igme,Region XI,2024,Combined Effects,0,0,409,4,6,10,0.0,0.0
 Ferdie and Gener and Helen and Igme,Region XII,2024,Combined Effects,0,0,29127,2,5,7,0.0,0.0
+Ferdie and Gener and Helen and Igme,Region XIII,2024,Combined Effects,0,0,79,0,11,11,0.0,0.0
 Julian,CAR,2024,Super Typhoon,0,0,75081,3,30,33,37963930.0,10510664.7
 Julian,Region I,2024,Super Typhoon,4,0,262220,17,599,616,738157080.27,387835224.7
 Julian,Region II,2024,Super Typhoon,1,12,43477,107,2087,2194,189062000.0,129600666.4
 Kristine and Leon,BARMM,2024,Combined Effects,0,0,504766,99,147,246,0.0,0.0
-Kristine and Leon,CALABARZON,2024,Combined Effects,0,2,1683269,7789,69646,77435,2704248400.73,553950227.89
 Kristine and Leon,CAR,2024,Combined Effects,3,4,27660,6,345,351,101533428.4,22462246.6
-Kristine and Leon,CARAGA,2024,Combined Effects,0,0,58224,23,183,206,65000.0,0.0
 Kristine and Leon,NCR,2024,Combined Effects,0,0,232700,0,0,0,0.0,0.0
 Kristine and Leon,Region I,2024,Combined Effects,0,0,571291,273,7941,8214,150500000.0,636555655.83
 Kristine and Leon,Region II,2024,Combined Effects,1,0,246665,13,594,607,116441369.8,666014061.82
 Kristine and Leon,Region III,2024,Combined Effects,2,4,1145022,14,135,149,1567066804.87,455033854.99
+Kristine and Leon,Region IV-A,2024,Combined Effects,0,2,1683269,7789,69646,77435,2704248400.73,553950227.89
 Kristine and Leon,Region IV-B,2024,Combined Effects,0,0,92293,170,1653,1823,397967553.79,759785300.86
 Kristine and Leon,Region IX,2024,Combined Effects,0,0,69250,59,209,268,0.0,0.0
 Kristine and Leon,Region V,2024,Combined Effects,15,0,3255804,6776,80052,86828,5511010940.92,3826819839.58
@@ -298,6 +297,7 @@ Kristine and Leon,Region VIII,2024,Combined Effects,0,0,960155,275,4783,5058,0.0
 Kristine and Leon,Region X,2024,Combined Effects,1,1,13879,112,1338,1450,2000000.0,0.0
 Kristine and Leon,Region XI,2024,Combined Effects,0,0,26473,46,443,489,0.0,0.0
 Kristine and Leon,Region XII,2024,Combined Effects,0,0,111569,58,138,196,15000000.0,22898170.0
+Kristine and Leon,Region XIII,2024,Combined Effects,0,0,58224,23,183,206,65000.0,0.0
 Marce,CAR,2024,Typhoon,0,0,64405,58,4756,4814,0.0,0.0
 Marce,Region I,2024,Typhoon,0,0,46035,58,2236,2294,0.0,16247830.58
 Marce,Region II,2024,Typhoon,1,0,277074,1031,20801,21832,176478600.0,0.0
@@ -318,14 +318,13 @@ Bising,NCR,2025,Severe Tropical Storm,0,0,6000,0,0,0,0.0,0.0
 Bising,Region I,2025,Severe Tropical Storm,0,0,1959,0,0,0,0.0,0.0
 Bising,Region III,2025,Severe Tropical Storm,0,0,95104,4,0,4,0.0,0.0
 Crising and Dante and Emong,BARMM,2025,Combined Effects,0,0,33074,176,308,484,0.0,0.0
-Crising and Dante and Emong,CALABARZON,2025,Combined Effects,0,2,374584,172,3491,3663,854644323.27,99482799.09
 Crising and Dante and Emong,CAR,2025,Combined Effects,0,9,51343,18,45,63,74239640.1,90482.0
-Crising and Dante and Emong,CARAGA,2025,Combined Effects,1,0,115,0,1,1,0.0,0.0
 Crising and Dante and Emong,NCR,2025,Combined Effects,0,0,704480,0,0,0,0.0,0.0
 Crising and Dante and Emong,NIR,2025,Combined Effects,0,0,188416,53,443,496,0.0,60357273.0
 Crising and Dante and Emong,Region I,2025,Combined Effects,0,0,1056328,12,438,450,1280531693.06,1805549.22
 Crising and Dante and Emong,Region II,2025,Combined Effects,0,0,25718,1,5,6,75600000.0,4069019.0
 Crising and Dante and Emong,Region III,2025,Combined Effects,3,0,2639003,37,118,155,3173016468.38,46640321.57
+Crising and Dante and Emong,Region IV-A,2025,Combined Effects,0,2,374584,172,3491,3663,854644323.27,99482799.09
 Crising and Dante and Emong,Region IV-B,2025,Combined Effects,0,0,264914,9,19,28,289062400.0,173942253.71
 Crising and Dante and Emong,Region IX,2025,Combined Effects,0,1,45150,105,296,401,0.0,1200.0
 Crising and Dante and Emong,Region V,2025,Combined Effects,0,0,393972,0,7,7,0.0,11460868.3
@@ -334,6 +333,7 @@ Crising and Dante and Emong,Region VII,2025,Combined Effects,0,0,13941,0,0,0,0.0
 Crising and Dante and Emong,Region X,2025,Combined Effects,1,1,19850,20,148,168,0.0,0.0
 Crising and Dante and Emong,Region XI,2025,Combined Effects,0,0,3204,59,80,139,0.0,0.0
 Crising and Dante and Emong,Region XII,2025,Combined Effects,0,0,8277,27,236,263,0.0,58681824.0
+Crising and Dante and Emong,Region XIII,2025,Combined Effects,1,0,115,0,1,1,0.0,0.0
 Isang,BARMM,2025,Tropical Storm,0,0,24911,0,0,0,0.0,0.0
 Isang,CAR,2025,Tropical Storm,0,0,9,0,1,1,0.0,0.0
 Isang,Region II,2025,Tropical Storm,0,0,113,0,0,0,0.0,0.0
@@ -341,43 +341,43 @@ Isang,Region V,2025,Tropical Storm,0,0,13778,0,0,0,0.0,0.0
 Isang,Region XI,2025,Tropical Storm,0,0,0,0,0,0,0.0,0.0
 Isang,Region XII,2025,Tropical Storm,0,0,11892,0,1,1,0.0,0.0
 Jacinto,BARMM,2025,Tropical Depression,0,0,140060,18,356,374,710000.0,0.0
-Jacinto,CALABARZON,2025,Tropical Depression,0,0,1053,0,0,0,0.0,0.0
-Jacinto,CARAGA,2025,Tropical Depression,0,0,663,0,0,0,0.0,0.0
+Jacinto,Region IV-A,2025,Tropical Depression,0,0,1053,0,0,0,0.0,0.0
 Jacinto,Region IV-B,2025,Tropical Depression,0,0,4588,1,69,70,0.0,0.0
 Jacinto,Region IX,2025,Tropical Depression,0,0,18956,1,0,1,0.0,0.0
 Jacinto,Region V,2025,Tropical Depression,0,0,27379,0,0,0,0.0,0.0
 Jacinto,Region XII,2025,Tropical Depression,0,0,780,0,0,0,0.0,0.0
+Jacinto,Region XIII,2025,Tropical Depression,0,0,663,0,0,0,0.0,0.0
 Lannie,NCR,2025,Tropical Depression,0,0,6000,0,0,0,0.0,0.0
 Lannie,Region III,2025,Tropical Depression,0,0,83675,0,0,0,0.0,0.0
-Paolo,CALABARZON,2025,Typhoon,0,0,749,0,0,0,0.0,0.0
 Paolo,CAR,2025,Typhoon,0,0,35231,0,0,0,804360.0,105389280.0
 Paolo,Region I,2025,Typhoon,0,0,36370,0,0,0,0.0,0.0
 Paolo,Region II,2025,Typhoon,1,0,95618,0,0,0,0.0,0.0
 Paolo,Region III,2025,Typhoon,0,0,246306,1,26,27,0.0,0.0
-Ramil,CALABARZON,2025,Tropical Storm,0,0,7797,0,0,0,0.0,0.0
+Paolo,Region IV-A,2025,Typhoon,0,0,749,0,0,0,0.0,0.0
 Ramil,CAR,2025,Tropical Storm,0,0,16018,0,0,0,0.0,4537000.0
 Ramil,Region I,2025,Tropical Storm,0,0,15461,0,0,0,0.0,0.0
 Ramil,Region II,2025,Tropical Storm,1,0,61449,1,0,1,0.0,13125200.0
 Ramil,Region III,2025,Tropical Storm,0,0,3109,0,0,0,0.0,0.0
-Tino,CALABARZON,2025,Typhoon,0,0,0,0,0,0,0.0,0.0
-Tino,CARAGA,2025,Typhoon,1,0,353915,65,2106,2171,2352000.0,0.0
+Ramil,Region IV-A,2025,Tropical Storm,0,0,7797,0,0,0,0.0,0.0
 Tino,NCR,2025,Typhoon,0,0,704480,0,0,0,0.0,0.0
+Tino,Region IV-A,2025,Typhoon,0,0,0,0,0,0,0.0,0.0
 Tino,Region IV-B,2025,Typhoon,0,0,264914,9,19,28,289062400.0,173942253.71
 Tino,Region VI,2025,Typhoon,0,0,1224877,15962,56057,72019,161827992.38,27868653.86
 Tino,Region VII,2025,Typhoon,139,0,1511900,12130,120560,132690,73334141.0,1200000000.0
 Tino,Region VIII,2025,Typhoon,0,0,706549,4206,23854,28060,0.0,0.0
-Uwan,CALABARZON,2025,Super Typhoon,0,0,0,0,0,0,0.0,0.0
+Tino,Region XIII,2025,Typhoon,1,0,353915,65,2106,2171,2352000.0,0.0
 Uwan,CAR,2025,Super Typhoon,0,0,0,0,0,0,0.0,0.0
-Uwan,CARAGA,2025,Super Typhoon,0,0,99109,0,0,0,0.0,0.0
 Uwan,NCR,2025,Super Typhoon,0,0,0,0,0,0,0.0,0.0
 Uwan,Region I,2025,Super Typhoon,0,0,426884,0,0,0,0.0,0.0
 Uwan,Region II,2025,Super Typhoon,3,0,0,0,0,0,0.0,0.0
 Uwan,Region III,2025,Super Typhoon,0,0,158697,0,0,0,0.0,0.0
+Uwan,Region IV-A,2025,Super Typhoon,0,0,0,0,0,0,0.0,0.0
 Uwan,Region IV-B,2025,Super Typhoon,0,0,0,0,0,0,0.0,0.0
 Uwan,Region IX,2025,Super Typhoon,1,0,0,0,0,0,0.0,0.0
 Uwan,Region V,2025,Super Typhoon,1,2,1414412,0,0,0,0.0,0.0
 Uwan,Region VI,2025,Super Typhoon,1,0,0,0,0,0,0.0,0.0
 Uwan,Region VIII,2025,Super Typhoon,1,1,422392,0,0,0,0.0,0.0
+Uwan,Region XIII,2025,Super Typhoon,0,0,99109,0,0,0,0.0,0.0
 Verbena,CAR,2025,Tropical Depression,0,0,335,0,19,19,18560.0,0.0
 Verbena,NCR,2025,Tropical Depression,0,0,1691,0,0,0,0.0,0.0
 Verbena,Region V,2025,Tropical Depression,0,0,10332,0,0,0,0.0,0.0
